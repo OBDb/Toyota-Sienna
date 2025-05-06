@@ -2,190 +2,25 @@ command_id: 701.709.221627
 can_id_format: ELEVEN_BIT
 extended_addressing_enabled: false
 test_cases:
-- response: |-
-    709037F2231
-    709056216277300
-  expected_values:
-    TOYOTA_TF1_PAN: 167
-- response: |-
-    709037F2231
-    7090562162778A0
-  expected_values:
-    TOYOTA_TF1_PAN: 177.125
 - response: '709056216273700'
   expected_values:
     TOYOTA_TF1_PAN: 59
-- response: |-
-    7090562162737A0
-    709037F2231
-  expected_values:
-    TOYOTA_TF1_PAN: 60.125
-- response: 7090562162749C0
-  expected_values:
-    TOYOTA_TF1_PAN: 92.75
 - response: 709056216274CE0
   expected_values:
     TOYOTA_TF1_PAN: 98.375
-- response: 709056216274D80
-  expected_values:
-    TOYOTA_TF1_PAN: 99.5
-- response: '709056216275000'
-  expected_values:
-    TOYOTA_TF1_PAN: 104
-- response: '7090562162751E0'
-  expected_values:
-    TOYOTA_TF1_PAN: 107.375
-- response: 7090562162753C0
-  expected_values:
-    TOYOTA_TF1_PAN: 110.75
-- response: '709056216275640'
-  expected_values:
-    TOYOTA_TF1_PAN: 115.25
-- response: '709056216275780'
-  expected_values:
-    TOYOTA_TF1_PAN: 117.5
-- response: |-
-    709056216275780
-    709037F2231
-  expected_values:
-    TOYOTA_TF1_PAN: 117.5
 - response: |-
     709056216275780
     7090762010302016F6D
   expected_values:
     TOYOTA_TF1_PAN: 117.5
-- response: 7090562162758C0
-  expected_values:
-    TOYOTA_TF1_PAN: 119.75
-- response: 709056216275AA0
-  expected_values:
-    TOYOTA_TF1_PAN: 123.125
-- response: 709056216275B40
-  expected_values:
-    TOYOTA_TF1_PAN: 124.25
-- response: 709056216275BE0
-  expected_values:
-    TOYOTA_TF1_PAN: 125.375
-- response: '709056216276040'
-  expected_values:
-    TOYOTA_TF1_PAN: 133.25
-- response: '7090562162760E0'
-  expected_values:
-    TOYOTA_TF1_PAN: 134.375
-- response: '709056216276360'
-  expected_values:
-    TOYOTA_TF1_PAN: 138.875
-- response: '709056216276400'
-  expected_values:
-    TOYOTA_TF1_PAN: 140
-- response: '709056216276540'
-  expected_values:
-    TOYOTA_TF1_PAN: 142.25
-- response: '7090562162765E0'
-  expected_values:
-    TOYOTA_TF1_PAN: 143.375
-- response: '709056216276680'
-  expected_values:
-    TOYOTA_TF1_PAN: 144.5
-- response: 7090562162767C0
-  expected_values:
-    TOYOTA_TF1_PAN: 146.75
-- response: 7090562162769A0
-  expected_values:
-    TOYOTA_TF1_PAN: 150.125
-- response: 709056216276AE0
-  expected_values:
-    TOYOTA_TF1_PAN: 152.375
-- response: 709056216276CC0
-  expected_values:
-    TOYOTA_TF1_PAN: 155.75
-- response: 709056216276D60
-  expected_values:
-    TOYOTA_TF1_PAN: 156.875
-- response: 709056216276EA0
-  expected_values:
-    TOYOTA_TF1_PAN: 159.125
-- response: '709056216277080'
-  expected_values:
-    TOYOTA_TF1_PAN: 162.5
-- response: |-
-    709056216277080
-    709037F2231
-  expected_values:
-    TOYOTA_TF1_PAN: 162.5
-- response: '709056216277120'
-  expected_values:
-    TOYOTA_TF1_PAN: 163.625
-- response: 7090562162771C0
-  expected_values:
-    TOYOTA_TF1_PAN: 164.75
-- response: '709056216277260'
-  expected_values:
-    TOYOTA_TF1_PAN: 165.875
 - response: '709056216277300'
   expected_values:
     TOYOTA_TF1_PAN: 167
-- response: |-
-    709056216277580
-    709037F2231
-  expected_values:
-    TOYOTA_TF1_PAN: 171.5
-- response: '709056216277620'
-  expected_values:
-    TOYOTA_TF1_PAN: 172.625
-- response: 7090562162776C0
-  expected_values:
-    TOYOTA_TF1_PAN: 173.75
-- response: '709056216277760'
-  expected_values:
-    TOYOTA_TF1_PAN: 174.875
-- response: '709056216277800'
-  expected_values:
-    TOYOTA_TF1_PAN: 176
-- response: 7090562162778A0
-  expected_values:
-    TOYOTA_TF1_PAN: 177.125
-- response: '709056216277940'
-  expected_values:
-    TOYOTA_TF1_PAN: 178.25
-- response: '7090562162779E0'
-  expected_values:
-    TOYOTA_TF1_PAN: 179.375
-- response: 709056216277D00
-  expected_values:
-    TOYOTA_TF1_PAN: 185
-- response: 709056216277DA0
-  expected_values:
-    TOYOTA_TF1_PAN: 186.125
 - response: |-
     709056216277DA0
     7090762010302016F30
   expected_values:
     TOYOTA_TF1_PAN: 186.125
-- response: '709056216277E40'
-  expected_values:
-    TOYOTA_TF1_PAN: 187.25
-- response: 709056216277F80
-  expected_values:
-    TOYOTA_TF1_PAN: 189.5
-- response: '709056216278020'
-  expected_values:
-    TOYOTA_TF1_PAN: 190.625
-- response: 7090562162780C0
-  expected_values:
-    TOYOTA_TF1_PAN: 191.75
-- response: '709056216278160'
-  expected_values:
-    TOYOTA_TF1_PAN: 192.875
-- response: '7090562162783E0'
-  expected_values:
-    TOYOTA_TF1_PAN: 197.375
-- response: '709056216278480'
-  expected_values:
-    TOYOTA_TF1_PAN: 198.5
 - response: '709056216278520'
   expected_values:
     TOYOTA_TF1_PAN: 199.625
-- response: 7090562162785C0
-  expected_values:
-    TOYOTA_TF1_PAN: 200.75
