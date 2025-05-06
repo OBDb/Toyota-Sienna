@@ -1,0 +1,140 @@
+command_id: 701.709.220103
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: |-
+    709037F2231
+    7090762010302016EE4
+  expected_values:
+    TOYOTA_ODO_V3: 93924
+- response: |-
+    709037F2231
+    7090762010302016F37
+  expected_values:
+    TOYOTA_ODO_V3: 94007
+- response: 7090762010302016EE3
+  expected_values:
+    TOYOTA_ODO_V3: 93923
+- response: |-
+    7090762010302016EE3
+    709056216273840
+  expected_values:
+    TOYOTA_ODO_V3: 93923
+- response: 7090762010302016EE4
+  expected_values:
+    TOYOTA_ODO_V3: 93924
+- response: |-
+    7090762010302016EE5
+    7090562162750A0
+  expected_values:
+    TOYOTA_ODO_V3: 93925
+- response: 7090762010302016EF8
+  expected_values:
+    TOYOTA_ODO_V3: 93944
+- response: 7090762010302016EF9
+  expected_values:
+    TOYOTA_ODO_V3: 93945
+- response: 7090762010302016EFA
+  expected_values:
+    TOYOTA_ODO_V3: 93946
+- response: 7090762010302016EFB
+  expected_values:
+    TOYOTA_ODO_V3: 93947
+- response: 7090762010302016EFC
+  expected_values:
+    TOYOTA_ODO_V3: 93948
+- response: 7090762010302016EFD
+  expected_values:
+    TOYOTA_ODO_V3: 93949
+- response: 7090762010302016EFF
+  expected_values:
+    TOYOTA_ODO_V3: 93951
+- response: 7090762010302016F04
+  expected_values:
+    TOYOTA_ODO_V3: 93956
+- response: 7090762010302016F0B
+  expected_values:
+    TOYOTA_ODO_V3: 93963
+- response: 7090762010302016F10
+  expected_values:
+    TOYOTA_ODO_V3: 93968
+- response: 7090762010302016F11
+  expected_values:
+    TOYOTA_ODO_V3: 93969
+- response: 7090762010302016F14
+  expected_values:
+    TOYOTA_ODO_V3: 93972
+- response: 7090762010302016F15
+  expected_values:
+    TOYOTA_ODO_V3: 93973
+- response: |-
+    7090762010302016F16
+    709056216278160
+  expected_values:
+    TOYOTA_ODO_V3: 93974
+- response: 7090762010302016F18
+  expected_values:
+    TOYOTA_ODO_V3: 93976
+- response: 7090762010302016F1B
+  expected_values:
+    TOYOTA_ODO_V3: 93979
+- response: |-
+    7090762010302016F1B
+    709037F2231
+  expected_values:
+    TOYOTA_ODO_V3: 93979
+- response: 7090762010302016F1C
+  expected_values:
+    TOYOTA_ODO_V3: 93980
+- response: 7090762010302016F1E
+  expected_values:
+    TOYOTA_ODO_V3: 93982
+- response: 7090762010302016F1F
+  expected_values:
+    TOYOTA_ODO_V3: 93983
+- response: 7090762010302016F2E
+  expected_values:
+    TOYOTA_ODO_V3: 93998
+- response: 7090762010302016F30
+  expected_values:
+    TOYOTA_ODO_V3: 94000
+- response: 7090762010302016F31
+  expected_values:
+    TOYOTA_ODO_V3: 94001
+- response: 7090762010302016F35
+  expected_values:
+    TOYOTA_ODO_V3: 94005
+- response: 7090762010302016F36
+  expected_values:
+    TOYOTA_ODO_V3: 94006
+- response: 7090762010302016F37
+  expected_values:
+    TOYOTA_ODO_V3: 94007
+- response: 7090762010302016F38
+  expected_values:
+    TOYOTA_ODO_V3: 94008
+- response: 7090762010302016F39
+  expected_values:
+    TOYOTA_ODO_V3: 94009
+- response: 7090762010302016F3A
+  expected_values:
+    TOYOTA_ODO_V3: 94010
+- response: 7090762010302016F3C
+  expected_values:
+    TOYOTA_ODO_V3: 94012
+- response: |-
+    7090762010302016F3E
+    709037F2231
+  expected_values:
+    TOYOTA_ODO_V3: 94014
+- response: |-
+    7090762010302016F3F
+    709037F2231
+  expected_values:
+    TOYOTA_ODO_V3: 94015
+- response: 7090762010302016F40
+  expected_values:
+    TOYOTA_ODO_V3: 94016
+- response: 7090762010302016F6D
+  expected_values:
+    TOYOTA_ODO_V3: 94061
