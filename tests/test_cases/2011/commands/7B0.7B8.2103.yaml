@@ -12,6 +12,16 @@ test_cases:
     TOYOTA_TS_FR: 0
     TOYOTA_TS_RL: 0
     TOYOTA_TS_RR: 0
+- response: 7B80661033C3C3C3C
+  expected_values:
+    TOYOTA_TIRE_FL_SPD: 76.8
+    TOYOTA_TIRE_FR_SPD: 76.8
+    TOYOTA_TIRE_RL_SPD: 76.8
+    TOYOTA_TIRE_RR_SPD: 76.8
+    TOYOTA_TS_FL: 76.8
+    TOYOTA_TS_FR: 76.8
+    TOYOTA_TS_RL: 76.8
+    TOYOTA_TS_RR: 76.8
 - response: 7B80661033C3D3D3D
   expected_values:
     TOYOTA_TIRE_FL_SPD: 78.08
