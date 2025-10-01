@@ -1,25 +1,56 @@
 command_id: 7B0.7B8.2147
-can_id_format: ELEVEN_BIT
-extended_addressing_enabled: false
 test_cases:
-- response: 7B80761470000807F38
-  expected_values:
-    TOYOTA_STEER_ANGLE: -1000
-- response: 7B80761470000807FFD
-  expected_values:
-    TOYOTA_STEER_ANGLE: -1000
-- response: 7B80761470001808000
-  expected_values:
-    TOYOTA_STEER_ANGLE: -1000
-- response: 7B807614700FF7F7FDF
-  expected_values:
-    TOYOTA_STEER_ANGLE: -1000
-- response: 7B807614707F9A3976E
-  expected_values:
-    TOYOTA_STEER_ANGLE: -1000
-- response: 7B8076147F002647526
-  expected_values:
-    TOYOTA_STEER_ANGLE: -1000
-- response: 7B8076147FF00807FE6
-  expected_values:
-    TOYOTA_STEER_ANGLE: -1000
+- expected_values:
+    TOYOTA_LAT_G: 0
+    TOYOTA_LNG_G: 0
+    TOYOTA_STEER_ANGLE: -131
+    TOYOTA_YAW_RATE: -4
+  response: 7B807614700007C7AE2
+- expected_values:
+    TOYOTA_LAT_G: 0
+    TOYOTA_LNG_G: 0
+    TOYOTA_STEER_ANGLE: -0.1
+    TOYOTA_YAW_RATE: 0
+  response: 7B80761470000807FFF
+- expected_values:
+    TOYOTA_LAT_G: 0
+    TOYOTA_LNG_G: 0
+    TOYOTA_STEER_ANGLE: 0
+    TOYOTA_YAW_RATE: 0
+  response: 7B80761470000808000
+- expected_values:
+    TOYOTA_LAT_G: 0
+    TOYOTA_LNG_G: -0.04
+    TOYOTA_STEER_ANGLE: 615.2
+    TOYOTA_YAW_RATE: 16
+  response: 7B807614700FE909808
+- expected_values:
+    TOYOTA_LAT_G: 0
+    TOYOTA_LNG_G: -0.02
+    TOYOTA_STEER_ANGLE: -189.7
+    TOYOTA_YAW_RATE: -8
+  response: 7B807614700FF787897
+- expected_values:
+    TOYOTA_LAT_G: 0
+    TOYOTA_LNG_G: -0.02
+    TOYOTA_STEER_ANGLE: -617.4
+    TOYOTA_YAW_RATE: 14
+  response: 7B807614700FF8E67E2
+- expected_values:
+    TOYOTA_LAT_G: 0.24
+    TOYOTA_LNG_G: -0.1
+    TOYOTA_STEER_ANGLE: 632.9
+    TOYOTA_YAW_RATE: 41
+  response: 7B80761470CFBA998B9
+- expected_values:
+    TOYOTA_LAT_G: -0.22
+    TOYOTA_LNG_G: 0.06
+    TOYOTA_STEER_ANGLE: -500.7
+    TOYOTA_YAW_RATE: -34
+  response: 7B8076147F5035E6C71
+- expected_values:
+    TOYOTA_LAT_G: -0.02
+    TOYOTA_LNG_G: 0
+    TOYOTA_STEER_ANGLE: -63.8
+    TOYOTA_YAW_RATE: -6
+  response: 7B8076147FF007A7D82

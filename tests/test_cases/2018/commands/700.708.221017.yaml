@@ -1,0 +1,200 @@
+command_id: 700.708.221017
+test_cases:
+- expected_values:
+    TOYOTA_INJ_VOL: 1.04
+  response: |-
+    708046210AA00
+    708056210170D00
+- expected_values:
+    TOYOTA_INJ_VOL: 1.41094
+  response: |-
+    708046210AA00
+    7080562101711A3
+- expected_values:
+    TOYOTA_INJ_VOL: 1.50469
+  response: |-
+    708046210AA00
+    7080562101712CF
+- expected_values:
+    TOYOTA_INJ_VOL: 2.54
+  response: |-
+    708046210AA00
+    708056210171FC0
+- expected_values:
+    TOYOTA_INJ_VOL: 4.57156
+  response: |-
+    708046210AA00
+    708056210173925
+- expected_values:
+    TOYOTA_INJ_VOL: 0
+  response: '708056210170000'
+- expected_values:
+    TOYOTA_INJ_VOL: 0.39969
+  response: 7080562101704FF
+- expected_values:
+    TOYOTA_INJ_VOL: 1.12031
+  response: '708056210170E01'
+- expected_values:
+    TOYOTA_INJ_VOL: 7.60719
+  response: 708056210175F17
+- expected_values:
+    TOYOTA_INJ_VOL: 3.02844
+  response: |-
+    7080562106218F0
+    7080562101725DB
+- expected_values:
+    TOYOTA_INJ_VOL: 1.02531
+  response: |-
+    708056210621AF9
+    708056210170CD1
+- expected_values:
+    TOYOTA_INJ_VOL: 1.25875
+  response: |-
+    7080562106F0800
+    708056210170FBC
+- expected_values:
+    TOYOTA_INJ_VOL: 0
+  response: |-
+    7080562106F0C00
+    708056210170000
+- expected_values:
+    TOYOTA_INJ_VOL: 0
+  response: |-
+    708056210710000
+    708056210170000
+- expected_values:
+    TOYOTA_INJ_VOL: 0
+  response: |-
+    708056210CD8BAA
+    708056210170000
+- expected_values:
+    TOYOTA_INJ_VOL: 1.08438
+  response: |-
+    708056210CD8F2D
+    708056210170D8E
+- expected_values:
+    TOYOTA_INJ_VOL: 2.52562
+  response: |-
+    70805621F3C1265
+    708056210171F92
+- expected_values:
+    TOYOTA_INJ_VOL: 2.50469
+  response: |-
+    70805621F3E15B1
+    708056210171F4F
+- expected_values:
+    TOYOTA_INJ_VOL: 5.57875
+  response: |-
+    70805621F3E1756
+    7080562101745BC
+- expected_values:
+    TOYOTA_INJ_VOL: 4.02781
+  response: |-
+    7080762105C82067FF3
+    708056210173259
+- expected_values:
+    TOYOTA_INJ_VOL: 1.10219
+  response: |-
+    7080762105C820B7FA0
+    708056210170DC7
+- expected_values:
+    TOYOTA_INJ_VOL: 0
+  response: |-
+    7080762105C82827FA0
+    708056210170000
+- expected_values:
+    TOYOTA_INJ_VOL: 0
+  response: |-
+    708211601076B7F9885
+    70822D4800A7F9A8119
+    7082380F78000000080
+    70824397171333302FC
+    708056210170000
+- expected_values:
+    TOYOTA_INJ_VOL: 1.37688
+  response: |-
+    708214D0100EB7FD686
+    70822517FFB7FAB8134
+    7082381488002000081
+    70824467F7F393902CC
+    708056210171136
+- expected_values:
+    TOYOTA_INJ_VOL: 0
+  response: |-
+    7082151000000000000
+    708056210170000
+- expected_values:
+    TOYOTA_INJ_VOL: 1.20406
+  response: |-
+    7082151000000000000
+    708056210170F0D
+- expected_values:
+    TOYOTA_INJ_VOL: 1.20844
+  response: |-
+    70821690100007F4983
+    70822E180417F758110
+    70823816C800A000082
+    7082444647D3C3802C4
+    708056210170F1B
+- expected_values:
+    TOYOTA_INJ_VOL: 0.94969
+  response: |-
+    70821817F0000000000
+    708056210170BDF
+- expected_values:
+    TOYOTA_INJ_VOL: 3.01531
+  response: |-
+    7082184840000000000
+    7080562101725B1
+- expected_values:
+    TOYOTA_INJ_VOL: 2.36688
+  response: |-
+    70821C80103F57FB786
+    708225680097FB981C0
+    7082380B38007000083
+    708243C76763737031C
+    708056210171D96
+- expected_values:
+    TOYOTA_INJ_VOL: 1.22125
+  response: |-
+    70821DC0100007F9D84
+    708229B7FF97FAD8185
+    7082380BC8009000085
+    708243F52713A380344
+    708056210170F44
+- expected_values:
+    TOYOTA_INJ_VOL: 1.19812
+  response: |-
+    70821DD010E147F6484
+    70822C0800F7F85815C
+    70823823D8001000084
+    708244C82823D3D0230
+    708056210170EFA
+- expected_values:
+    TOYOTA_INJ_VOL: 1.92969
+  response: |-
+    708227B800A7FA68114
+    7082380008006000086
+    708243A787835350270
+    70805621017181F
+- expected_values:
+    TOYOTA_INJ_VOL: 1.105
+  response: |-
+    70822AF80207F928165
+    7082381068002000080
+    708243C69693535021C
+    708056210170DD0
+- expected_values:
+    TOYOTA_INJ_VOL: 1.06562
+  response: |-
+    70822B17FED7F598147
+    70823815F8002000087
+    708244B797937370218
+    708056210170D52
+- expected_values:
+    TOYOTA_INJ_VOL: 2.49375
+  response: |-
+    70822D6800A7F858213
+    708238114800E000083
+    708243D5F6937370440
+    708056210171F2C
