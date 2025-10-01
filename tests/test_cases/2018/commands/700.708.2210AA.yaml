@@ -1,0 +1,109 @@
+command_id: 700.708.2210AA
+test_cases:
+- expected_values:
+    TOYOTA_MISFIRE_LOAD: 0
+  response: 708046210AA00
+- expected_values:
+    TOYOTA_MISFIRE_LOAD: 0
+  response: |-
+    708056210170000
+    708046210AA00
+- expected_values:
+    TOYOTA_MISFIRE_LOAD: 0
+  response: |-
+    7080562106218FF
+    708046210AA00
+- expected_values:
+    TOYOTA_MISFIRE_LOAD: 0
+  response: |-
+    708056210CD8BA1
+    708046210AA00
+- expected_values:
+    TOYOTA_MISFIRE_LOAD: 0
+  response: |-
+    708056210CD97F8
+    708046210AA00
+- expected_values:
+    TOYOTA_MISFIRE_LOAD: 0
+  response: |-
+    70805621F3C11A4
+    708046210AA00
+- expected_values:
+    TOYOTA_MISFIRE_LOAD: 0
+  response: |-
+    7080762105C81FD7FA0
+    708046210AA00
+- expected_values:
+    TOYOTA_MISFIRE_LOAD: 0
+  response: |-
+    7080762105C81FE7FA0
+    708046210AA00
+- expected_values:
+    TOYOTA_MISFIRE_LOAD: 0
+  response: |-
+    7080762105C820B7FA0
+    708046210AA00
+- expected_values:
+    TOYOTA_MISFIRE_LOAD: 0
+  response: |-
+    7080762105C820E7FA4
+    708046210AA00
+- expected_values:
+    TOYOTA_MISFIRE_LOAD: 0
+  response: |-
+    708100862102A818282
+    7082182800000000000
+    708046210AA00
+- expected_values:
+    TOYOTA_MISFIRE_LOAD: 0
+  response: |-
+    708100A621059406928
+    70821510BFA00000000
+    708046210AA00
+- expected_values:
+    TOYOTA_MISFIRE_LOAD: 0
+  response: |-
+    70821007B0000000000
+    708046210AA00
+- expected_values:
+    TOYOTA_MISFIRE_LOAD: 0
+  response: |-
+    7082100FF0000000000
+    708046210AA00
+- expected_values:
+    TOYOTA_MISFIRE_LOAD: 0
+  response: |-
+    7082111010B647F9086
+    70822C2800A7F9A81A5
+    7082381598007000083
+    708244682823E3E067C
+    708046210AA00
+- expected_values:
+    TOYOTA_MISFIRE_LOAD: 0
+  response: |-
+    7082151000000000000
+    708046210AA00
+- expected_values:
+    TOYOTA_MISFIRE_LOAD: 0
+  response: |-
+    7082151109400000000
+    708046210AA00
+- expected_values:
+    TOYOTA_MISFIRE_LOAD: 0
+  response: |-
+    7082184840000000000
+    708046210AA00
+- expected_values:
+    TOYOTA_MISFIRE_LOAD: 0
+  response: |-
+    708228F80007F568178
+    7082381168006000084
+    7082440787E38380470
+    708046210AA00
+- expected_values:
+    TOYOTA_MISFIRE_LOAD: 0
+  response: |-
+    70822B6800A7F768157
+    7082380BF800C000085
+    7082442757537370750
+    708046210AA00

@@ -1,0 +1,172 @@
+command_id: 700.708.221F3E
+test_cases:
+- expected_values:
+    TOYOTA_CAT_T_BANK_1_SENSOR_2: 87.9
+  response: |-
+    708046210AA00
+    70805621F3E04FF
+- expected_values:
+    TOYOTA_CAT_T_BANK_1_SENSOR_2: 307.2
+  response: |-
+    708046210AA00
+    70805621F3E0D90
+- expected_values:
+    TOYOTA_CAT_T_BANK_1_SENSOR_2: 387.3
+  response: |-
+    708046210AA00
+    70805621F3E10B1
+- expected_values:
+    TOYOTA_CAT_T_BANK_1_SENSOR_2: 431.2
+  response: |-
+    708056210170000
+    70805621F3E1268
+- expected_values:
+    TOYOTA_CAT_T_BANK_1_SENSOR_2: 256.7
+  response: |-
+    70805621017092F
+    70805621F3E0B97
+- expected_values:
+    TOYOTA_CAT_T_BANK_1_SENSOR_2: 231.9
+  response: |-
+    708056210171288
+    70805621F3E0A9F
+- expected_values:
+    TOYOTA_CAT_T_BANK_1_SENSOR_2: 315.2
+  response: |-
+    7080562101714D7
+    70805621F3E0DE0
+- expected_values:
+    TOYOTA_CAT_T_BANK_1_SENSOR_2: 354.3
+  response: |-
+    70805621062197A
+    70805621F3E0F67
+- expected_values:
+    TOYOTA_CAT_T_BANK_1_SENSOR_2: 371.3
+  response: |-
+    708056210621DD0
+    70805621F3E1011
+- expected_values:
+    TOYOTA_CAT_T_BANK_1_SENSOR_2: 410.3
+  response: |-
+    708056210CD8BE2
+    70805621F3E1197
+- expected_values:
+    TOYOTA_CAT_T_BANK_1_SENSOR_2: 131
+  response: |-
+    708056210CD8FFF
+    70805621F3E06AE
+- expected_values:
+    TOYOTA_CAT_T_BANK_1_SENSOR_2: 350.4
+  response: |-
+    708056210CD9190
+    70805621F3E0F40
+- expected_values:
+    TOYOTA_CAT_T_BANK_1_SENSOR_2: 120.5
+  response: |-
+    70805621F3C0F0A
+    70805621F3E0645
+- expected_values:
+    TOYOTA_CAT_T_BANK_1_SENSOR_2: 44.4
+  response: 70805621F3E034C
+- expected_values:
+    TOYOTA_CAT_T_BANK_1_SENSOR_2: 221
+  response: 70805621F3E0A32
+- expected_values:
+    TOYOTA_CAT_T_BANK_1_SENSOR_2: 318.3
+  response: 70805621F3E0DFF
+- expected_values:
+    TOYOTA_CAT_T_BANK_1_SENSOR_2: 446.4
+  response: 70805621F3E1300
+- expected_values:
+    TOYOTA_CAT_T_BANK_1_SENSOR_2: 638.2
+  response: 70805621F3E1A7E
+- expected_values:
+    TOYOTA_CAT_T_BANK_1_SENSOR_2: 280.6
+  response: |-
+    7080762105C82147FA0
+    70805621F3E0C86
+- expected_values:
+    TOYOTA_CAT_T_BANK_1_SENSOR_2: 438.3
+  response: |-
+    7080762105C82147FA0
+    70805621F3E12AF
+- expected_values:
+    TOYOTA_CAT_T_BANK_1_SENSOR_2: 370.5
+  response: |-
+    7080762105C82217FA0
+    70805621F3E1009
+- expected_values:
+    TOYOTA_CAT_T_BANK_1_SENSOR_2: 362.6
+  response: |-
+    7080762105C82727FA0
+    70805621F3E0FBA
+- expected_values:
+    TOYOTA_CAT_T_BANK_1_SENSOR_2: 505.3
+  response: |-
+    708100862102A7B817F
+    70821817F0000000000
+    70805621F3E154D
+- expected_values:
+    TOYOTA_CAT_T_BANK_1_SENSOR_2: 399.1
+  response: |-
+    7082100CB0000000000
+    70805621F3E1127
+- expected_values:
+    TOYOTA_CAT_T_BANK_1_SENSOR_2: 382.3
+  response: |-
+    7082100D00000000000
+    70805621F3E107F
+- expected_values:
+    TOYOTA_CAT_T_BANK_1_SENSOR_2: 265.5
+  response: |-
+    70821070104B07F5A83
+    70822E37FFF7F578162
+    7082381888001000085
+    708244C7D7D3E3E0204
+    70805621F3E0BEF
+- expected_values:
+    TOYOTA_CAT_T_BANK_1_SENSOR_2: 220.1
+  response: |-
+    70821330103F47F8182
+    70822EA80007F8080F6
+    7082380D28002000086
+    70824427878353501C8
+    70805621F3E0A29
+- expected_values:
+    TOYOTA_CAT_T_BANK_1_SENSOR_2: 238.9
+  response: |-
+    7082151000000000000
+    70805621F3E0AE5
+- expected_values:
+    TOYOTA_CAT_T_BANK_1_SENSOR_2: 292.9
+  response: |-
+    7082151057500000000
+    70805621F3E0D01
+- expected_values:
+    TOYOTA_CAT_T_BANK_1_SENSOR_2: 302.3
+  response: |-
+    7082184870000000000
+    70805621F3E0D5F
+- expected_values:
+    TOYOTA_CAT_T_BANK_1_SENSOR_2: 500.6
+  response: |-
+    708219901094A7F5584
+    70822FF80087F5D80EC
+    70823808C7FFC000081
+    70824397373343402D4
+    70805621F3E151E
+- expected_values:
+    TOYOTA_CAT_T_BANK_1_SENSOR_2: 528.4
+  response: |-
+    70821C80109627F7585
+    70822B4800A7F7F8149
+    7082380C38002000083
+    708243E7D7D373707C0
+    70805621F3E1634
+- expected_values:
+    TOYOTA_CAT_T_BANK_1_SENSOR_2: 315.1
+  response: |-
+    7082203800A7F238173
+    708238043800C000077
+    708244161613A3A09F4
+    70805621F3E0DDF

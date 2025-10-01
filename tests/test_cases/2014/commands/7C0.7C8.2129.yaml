@@ -1,10 +1,8 @@
 command_id: 7C0.7C8.2129
-can_id_format: ELEVEN_BIT
-extended_addressing_enabled: false
 test_cases:
-- response: 7C80361290B
-  expected_values:
-    TOYOTA_FLI_VOL: 5.5
-- response: 7C803612980
-  expected_values:
-    TOYOTA_FLI_VOL: 64
+- expected_values:
+    TOYOTA_FLI_VOL: 0.3963
+  response: 7C803612903
+- expected_values:
+    TOYOTA_FLI_VOL: 19.15456
+  response: 7C803612991
