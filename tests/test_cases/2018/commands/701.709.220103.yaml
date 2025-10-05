@@ -11,10 +11,20 @@ test_cases:
     709056216275A00
     7090762010302017103
 - expected_values:
+    TOYOTA_ODO_V5: 101021
+  response: |-
+    709056216276720
+    7090762010302018A9D
+- expected_values:
     TOYOTA_ODO_V5: 94576
   response: |-
     7090562162767C0
     7090762010302017170
+- expected_values:
+    TOYOTA_ODO_V5: 101023
+  response: |-
+    7090562162771C0
+    7090762010302018A9F
 - expected_values:
     TOYOTA_ODO_V5: 94000
   response: |-
