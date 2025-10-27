@@ -69,18 +69,6 @@ test_cases:
     7090762010302016F16
     709056216278160
 - expected_values:
-    TOYOTA_TF1_PAN: 190.625
-    TOYOTA_TFP_T: 88.125
-  response: |-
-    7090762010302017989
-    709056216278020
-- expected_values:
-    TOYOTA_TF1_PAN: 74.75
-    TOYOTA_TFP_T: 23.75
-  response: |-
-    7090762010302017B77
-    709056216273FC0
-- expected_values:
     TOYOTA_TF1_PAN: 179.375
     TOYOTA_TFP_T: 81.875
   response: |-
@@ -93,8 +81,20 @@ test_cases:
     7090762010302018409
     7090562162778A0
 - expected_values:
-    TOYOTA_TF1_PAN: 83.75
-    TOYOTA_TFP_T: 28.75
+    TOYOTA_TF1_PAN: 161.375
+    TOYOTA_TFP_T: 71.875
   response: |-
-    7090762010302018AD3
-    7090562162744C0
+    7090762010302018C4B
+    709056216276FE0
+- expected_values:
+    TOYOTA_TF1_PAN: 104
+    TOYOTA_TFP_T: 40
+  response: |-
+    7090762010302018D8C
+    709056216275000
+- expected_values:
+    TOYOTA_TF1_PAN: 146.75
+    TOYOTA_TFP_T: 63.75
+  response: |-
+    7090762010302018E0F
+    7090562162767C0
