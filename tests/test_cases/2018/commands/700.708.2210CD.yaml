@@ -26,16 +26,22 @@ test_cases:
     708056210CD8FF5
 - expected_values:
     TOYOTA_LFP: 100
+    TOYOTA_LFPS: -2855.8
+  response: |-
+    708046210AA00
+    708056210CD9072
+- expected_values:
+    TOYOTA_LFP: 100
     TOYOTA_LFPS: -2873.2
   response: |-
     708056210170000
     708056210CD8FC4
 - expected_values:
     TOYOTA_LFP: 100
-    TOYOTA_LFPS: -2864.7
+    TOYOTA_LFPS: -2864.9
   response: |-
     708056210170000
-    708056210CD9019
+    708056210CD9017
 - expected_values:
     TOYOTA_LFP: 100
     TOYOTA_LFPS: -2876.8
@@ -62,24 +68,24 @@ test_cases:
     708056210CD8FDF
 - expected_values:
     TOYOTA_LFP: 100
+    TOYOTA_LFPS: -2866.3
+  response: |-
+    7080562106F0C66
+    708056210CD9009
+- expected_values:
+    TOYOTA_LFP: 100
     TOYOTA_LFPS: -2968.4
   response: |-
     708056210870298
     708056210CD8C0C
 - expected_values:
     TOYOTA_LFP: 100
-    TOYOTA_LFPS: -2867.1
-  response: |-
-    70805621087073D
-    708056210CD9001
-- expected_values:
-    TOYOTA_LFP: 100
     TOYOTA_LFPS: -2995.5
   response: 708056210CD8AFD
 - expected_values:
     TOYOTA_LFP: 100
-    TOYOTA_LFPS: -2980.4
-  response: 708056210CD8B94
+    TOYOTA_LFPS: -2979.3
+  response: 708056210CD8B9F
 - expected_values:
     TOYOTA_LFP: 100
     TOYOTA_LFPS: -2969.6
@@ -90,8 +96,8 @@ test_cases:
   response: 708056210CD8FFF
 - expected_values:
     TOYOTA_LFP: 100
-    TOYOTA_LFPS: -2687.6
-  response: 708056210CD9704
+    TOYOTA_LFPS: -2615.1
+  response: 708056210CD99D9
 - expected_values:
     TOYOTA_LFP: 100
     TOYOTA_LFPS: -2864.3
@@ -118,16 +124,22 @@ test_cases:
     708056210CD9083
 - expected_values:
     TOYOTA_LFP: 100
-    TOYOTA_LFPS: -2862.9
+    TOYOTA_LFPS: -2865.6
   response: |-
-    7080762105C823A7FA0
-    708056210CD902B
+    7080762105C82497FA0
+    708056210CD9010
 - expected_values:
     TOYOTA_LFP: 100
     TOYOTA_LFPS: -2881.7
   response: |-
     7080762105C82697FA0
     708056210CD8F6F
+- expected_values:
+    TOYOTA_LFP: 100
+    TOYOTA_LFPS: -2869.7
+  response: |-
+    7080762105C82777FA0
+    708056210CD8FE7
 - expected_values:
     TOYOTA_LFP: 100
     TOYOTA_LFPS: -2871
@@ -143,12 +155,6 @@ test_cases:
     708056210CD8BA1
 - expected_values:
     TOYOTA_LFP: 100
-    TOYOTA_LFPS: -2870.2
-  response: |-
-    7082100BC0000000000
-    708056210CD8FE2
-- expected_values:
-    TOYOTA_LFP: 100
     TOYOTA_LFPS: -2874.4
   response: |-
     7082100DD0000000000
@@ -162,6 +168,15 @@ test_cases:
     70823804C800600007B
     7082438757534340B9C
     708056210CD8F78
+- expected_values:
+    TOYOTA_LFP: 100
+    TOYOTA_LFPS: -2868.6
+  response: |-
+    7082131010CB77FDB87
+    708226A800A7FCF81E3
+    7082381EE7FFD000088
+    708243B7D7D323202EC
+    708056210CD8FF2
 - expected_values:
     TOYOTA_LFP: 100
     TOYOTA_LFPS: -2882.5
@@ -218,6 +233,15 @@ test_cases:
     708056210CD8F83
 - expected_values:
     TOYOTA_LFP: 100
+    TOYOTA_LFPS: -2877.1
+  response: |-
+    7082186010D957F2A85
+    708221680017F2B8111
+    7082380B18002000084
+    70824467D7D343402B0
+    708056210CD8F9D
+- expected_values:
+    TOYOTA_LFP: 100
     TOYOTA_LFPS: -2878.6
   response: |-
     708218A0119557F8686
@@ -250,6 +274,14 @@ test_cases:
     70823818A8007000080
     708244B7D7D3F3F0360
     708056210CD8FA7
+- expected_values:
+    TOYOTA_LFP: 100
+    TOYOTA_LFPS: -2876.6
+  response: |-
+    708229C800A7F7681D5
+    708238127800B000087
+    7082438747832320330
+    708056210CD8FA2
 - expected_values:
     TOYOTA_LFP: 100
     TOYOTA_LFPS: -2870.5
