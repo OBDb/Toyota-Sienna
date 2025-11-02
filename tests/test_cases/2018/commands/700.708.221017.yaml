@@ -118,6 +118,11 @@ test_cases:
     7080762105C827A7FC1
     7080562101733CF
 - expected_values:
+    TOYOTA_INJ_VOL: 3.675
+  response: |-
+    7080762105C82807F99
+    708056210172DF0
+- expected_values:
     TOYOTA_INJ_VOL: 0
   response: |-
     7080762105C82827FA0
