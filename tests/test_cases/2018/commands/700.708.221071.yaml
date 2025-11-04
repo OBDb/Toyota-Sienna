@@ -57,7 +57,7 @@ test_cases:
 - expected_values:
     TOYOTA_EXHAUST_VVT_TARGET_ANGLE_B1: 0
   response: |-
-    70805621F3C1354
+    70805621F3C11BA
     708056210710000
 - expected_values:
     TOYOTA_EXHAUST_VVT_TARGET_ANGLE_B1: 19.20628
