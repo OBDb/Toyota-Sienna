@@ -51,10 +51,10 @@ test_cases:
     708056210621DD0
     70805621F3E1011
 - expected_values:
-    TOYOTA_CAT_T_BANK_1_SENSOR_2: 105.8
+    TOYOTA_CAT_T_BANK_1_SENSOR_2: 247.4
   response: |-
-    708056210CD8BAA
-    70805621F3E05B2
+    708056210CD8B8D
+    70805621F3E0B3A
 - expected_values:
     TOYOTA_CAT_T_BANK_1_SENSOR_2: 131
   response: |-
