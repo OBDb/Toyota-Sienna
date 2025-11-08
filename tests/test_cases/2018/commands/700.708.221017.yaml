@@ -1,15 +1,10 @@
 command_id: 700.708.221017
 test_cases:
 - expected_values:
-    TOYOTA_INJ_VOL: 1.04
+    TOYOTA_INJ_VOL: 0
   response: |-
     708046210AA00
-    708056210170D00
-- expected_values:
-    TOYOTA_INJ_VOL: 1.30844
-  response: |-
-    708046210AA00
-    70805621017105B
+    708056210170000
 - expected_values:
     TOYOTA_INJ_VOL: 1.50469
   response: |-
@@ -29,11 +24,11 @@ test_cases:
     TOYOTA_INJ_VOL: 0
   response: '708056210170000'
 - expected_values:
-    TOYOTA_INJ_VOL: 0.39969
-  response: 7080562101704FF
-- expected_values:
     TOYOTA_INJ_VOL: 1.025
   response: 708056210170CD0
+- expected_values:
+    TOYOTA_INJ_VOL: 3.19969
+  response: 7080562101727FF
 - expected_values:
     TOYOTA_INJ_VOL: 7.60719
   response: 708056210175F17
@@ -147,6 +142,14 @@ test_cases:
   response: |-
     7082100D90000000000
     708056210170E32
+- expected_values:
+    TOYOTA_INJ_VOL: 0
+  response: |-
+    708210101014C7F6F85
+    708226080067F6B8158
+    7082380738008000082
+    708243C82822E2E0488
+    708056210170000
 - expected_values:
     TOYOTA_INJ_VOL: 0
   response: |-
