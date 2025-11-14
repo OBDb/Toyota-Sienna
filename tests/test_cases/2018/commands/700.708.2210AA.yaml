@@ -137,7 +137,7 @@ test_cases:
 - expected_values:
     TOYOTA_MISFIRE_LOAD: 0
   response: |-
-    7082184840000000000
+    7082184820000000000
     708046210AA00
 - expected_values:
     TOYOTA_MISFIRE_LOAD: 0
