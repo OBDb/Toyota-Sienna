@@ -16,10 +16,10 @@ test_cases:
     708046210AA00
     708056210171FC0
 - expected_values:
-    TOYOTA_INJ_VOL: 4.57156
+    TOYOTA_INJ_VOL: 6.67375
   response: |-
     708046210AA00
-    708056210173925
+    70805621017536C
 - expected_values:
     TOYOTA_INJ_VOL: 0
   response: '708056210170000'
@@ -68,35 +68,35 @@ test_cases:
     708056210710000
     708056210170FF0
 - expected_values:
-    TOYOTA_INJ_VOL: 1.35969
+    TOYOTA_INJ_VOL: 4.39469
   response: |-
-    708056210710619
-    7080562101710FF
+    708056210710166
+    7080562101736EF
 - expected_values:
     TOYOTA_INJ_VOL: 1.08625
   response: |-
     708056210870BFA
     708056210170D94
 - expected_values:
-    TOYOTA_INJ_VOL: 0
+    TOYOTA_INJ_VOL: 1.45062
   response: |-
-    708056210CD8BAA
-    708056210170000
+    708056210CD8B83
+    708056210171222
 - expected_values:
     TOYOTA_INJ_VOL: 1.08438
   response: |-
     708056210CD8F2D
     708056210170D8E
 - expected_values:
+    TOYOTA_INJ_VOL: 8.40312
+  response: |-
+    708056210CD8FF2
+    70805621017690A
+- expected_values:
     TOYOTA_INJ_VOL: 2.52562
   response: |-
     70805621F3C1265
     708056210171F92
-- expected_values:
-    TOYOTA_INJ_VOL: 5.57875
-  response: |-
-    70805621F3E1756
-    7080562101745BC
 - expected_values:
     TOYOTA_INJ_VOL: 4.02781
   response: |-
