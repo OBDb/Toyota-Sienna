@@ -41,15 +41,15 @@ test_cases:
     TOYOTA_INTAKE_VVT_TARGET_ANGLE_B1: 68.26186
   response: 7080562106F1B4F
 - expected_values:
+    TOYOTA_INTAKE_VVT_TARGET_ANGLE_B1: 56.07608
+  response: |-
+    708056210710972
+    7080562106F166F
+- expected_values:
     TOYOTA_INTAKE_VVT_TARGET_ANGLE_B1: 0.70303
   response: |-
     708056210870266
     7080562106F0048
-- expected_values:
-    TOYOTA_INTAKE_VVT_TARGET_ANGLE_B1: 29.20487
-  response: |-
-    70805621087091F
-    7080562106F0BAF
 - expected_values:
     TOYOTA_INTAKE_VVT_TARGET_ANGLE_B1: 4.9993
   response: |-
