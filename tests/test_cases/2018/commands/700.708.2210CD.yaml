@@ -242,12 +242,6 @@ test_cases:
     708056210CD8F5E
 - expected_values:
     TOYOTA_LFP: 100
-    TOYOTA_LFPS: -2879.7
-  response: |-
-    7082185810000000000
-    708056210CD8F83
-- expected_values:
-    TOYOTA_LFP: 100
     TOYOTA_LFPS: -2877.1
   response: |-
     7082186010D957F2A85
@@ -255,6 +249,12 @@ test_cases:
     7082380B18002000084
     70824467D7D343402B0
     708056210CD8F9D
+- expected_values:
+    TOYOTA_LFP: 100
+    TOYOTA_LFPS: -2870.5
+  response: |-
+    7082187830000000000
+    708056210CD8FDF
 - expected_values:
     TOYOTA_LFP: 100
     TOYOTA_LFPS: -2878.6
