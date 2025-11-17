@@ -1,0 +1,8 @@
+command_id: 700.708.22106A
+test_cases:
+- expected_values:
+    TOYOTA_FUEL_PUMP_DUTY_RATIO: 220.36585
+  response: 7080562106A0E1E
+- expected_values:
+    TOYOTA_FUEL_PUMP_DUTY_RATIO: 229.26829
+  response: 7080562106A0EB0
