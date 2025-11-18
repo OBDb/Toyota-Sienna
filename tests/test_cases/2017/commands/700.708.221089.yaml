@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     TOYOTA_EXHAUST_VVT_HOLD_LEARN_B1: 73.38365
   response: 708056210892EFA
+- expected_values:
+    TOYOTA_EXHAUST_VVT_HOLD_LEARN_B1: 73.89012
+  response: 708056210892F4D
+- expected_values:
+    TOYOTA_EXHAUST_VVT_HOLD_LEARN_B1: 74.10369
+  response: 708056210892F70
