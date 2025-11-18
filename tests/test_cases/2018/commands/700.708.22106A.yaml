@@ -1,0 +1,34 @@
+command_id: 700.708.22106A
+test_cases:
+- expected_values:
+    TOYOTA_FUEL_PUMP_DUTY_RATIO: 214.20732
+  response: |-
+    708056210621751
+    7080562106A0DB9
+- expected_values:
+    TOYOTA_FUEL_PUMP_DUTY_RATIO: 211.52439
+  response: 7080562106A0D8D
+- expected_values:
+    TOYOTA_FUEL_PUMP_DUTY_RATIO: 215.30488
+  response: 7080562106A0DCB
+- expected_values:
+    TOYOTA_FUEL_PUMP_DUTY_RATIO: 234.69512
+  response: 7080562106A0F09
+- expected_values:
+    TOYOTA_FUEL_PUMP_DUTY_RATIO: 236.28049
+  response: 7080562106A0F23
+- expected_values:
+    TOYOTA_FUEL_PUMP_DUTY_RATIO: 240.12195
+  response: |-
+    708056210870472
+    7080562106A0F62
+- expected_values:
+    TOYOTA_FUEL_PUMP_DUTY_RATIO: 214.02439
+  response: |-
+    708056210892D2E
+    7080562106A0DB6
+- expected_values:
+    TOYOTA_FUEL_PUMP_DUTY_RATIO: 235.48781
+  response: |-
+    708056210CD8FD5
+    7080562106A0F16

@@ -21,10 +21,20 @@ test_cases:
     708046210AA00
     70805621071104A
 - expected_values:
+    TOYOTA_EXHAUST_VVT_TARGET_ANGLE_B1: 37.12367
+  response: |-
+    708056210022C28
+    708056210710EDA
+- expected_values:
     TOYOTA_EXHAUST_VVT_TARGET_ANGLE_B1: 0
   response: |-
     708056210170000
     708056210710000
+- expected_values:
+    TOYOTA_EXHAUST_VVT_TARGET_ANGLE_B1: 41.24418
+  response: |-
+    708056210415B5B
+    708056210711080
 - expected_values:
     TOYOTA_EXHAUST_VVT_TARGET_ANGLE_B1: 41.24418
   response: |-

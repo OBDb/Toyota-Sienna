@@ -21,6 +21,11 @@ test_cases:
     708046210AA00
     70805621F3E1088
 - expected_values:
+    TOYOTA_CAT_T_12: 294.4
+  response: |-
+    70804621F4635
+    70805621F3E0D10
+- expected_values:
     TOYOTA_CAT_T_12: 431.2
   response: |-
     708056210170000
@@ -51,6 +56,11 @@ test_cases:
     708056210621DD0
     70805621F3E1011
 - expected_values:
+    TOYOTA_CAT_T_12: 407.1
+  response: |-
+    7080562106CF739
+    70805621F3E1177
+- expected_values:
     TOYOTA_CAT_T_12: 247.4
   response: |-
     708056210CD8B8D
@@ -60,11 +70,6 @@ test_cases:
   response: |-
     708056210CD8FFF
     70805621F3E06AE
-- expected_values:
-    TOYOTA_CAT_T_12: 350.4
-  response: |-
-    708056210CD9190
-    70805621F3E0F40
 - expected_values:
     TOYOTA_CAT_T_12: 120.5
   response: |-
@@ -85,6 +90,11 @@ test_cases:
 - expected_values:
     TOYOTA_CAT_T_12: 638.2
   response: 70805621F3E1A7E
+- expected_values:
+    TOYOTA_CAT_T_12: 358
+  response: |-
+    7080762101904288000
+    70805621F3E0F8C
 - expected_values:
     TOYOTA_CAT_T_12: 280.6
   response: |-

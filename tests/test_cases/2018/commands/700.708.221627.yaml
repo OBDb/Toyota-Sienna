@@ -1,0 +1,24 @@
+command_id: 700.708.221627
+test_cases:
+- expected_values:
+    TOYOTA_TRANSMISSION_FLUID_PAN_T_VAR_3: 58.75
+  response: |-
+    7080462104600
+    7080562162762C0
+- expected_values:
+    TOYOTA_TRANSMISSION_FLUID_PAN_T_VAR_3: 57.5
+  response: |-
+    708046210AA00
+    708056216276180
+- expected_values:
+    TOYOTA_TRANSMISSION_FLUID_PAN_T_VAR_3: 21.875
+  response: 708056216273DE0
+- expected_values:
+    TOYOTA_TRANSMISSION_FLUID_PAN_T_VAR_3: 65
+  response: '708056216276900'
+- expected_values:
+    TOYOTA_TRANSMISSION_FLUID_PAN_T_VAR_3: 66.875
+  response: 708056216276AE0
+- expected_values:
+    TOYOTA_TRANSMISSION_FLUID_PAN_T_VAR_3: 81.875
+  response: '7080562162779E0'
