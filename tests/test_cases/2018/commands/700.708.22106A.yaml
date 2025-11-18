@@ -32,3 +32,8 @@ test_cases:
   response: |-
     708056210CD8FD5
     7080562106A0F16
+- expected_values:
+    TOYOTA_FUEL_PUMP_DUTY_RATIO: 212.0122
+  response: |-
+    7080762108401003F00
+    7080562106A0D95
