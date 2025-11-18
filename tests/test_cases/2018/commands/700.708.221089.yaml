@@ -1,0 +1,27 @@
+command_id: 700.708.221089
+test_cases:
+- expected_values:
+    TOYOTA_EXHAUST_VVT_HOLD_LEARN_B1: 71.36386
+  response: |-
+    708046210AA00
+    708056210892DAF
+- expected_values:
+    TOYOTA_EXHAUST_VVT_HOLD_LEARN_B1: 70.3265
+  response: |-
+    7080562101702AF
+    708056210892D05
+- expected_values:
+    TOYOTA_EXHAUST_VVT_HOLD_LEARN_B1: 69.64307
+  response: 708056210892C95
+- expected_values:
+    TOYOTA_EXHAUST_VVT_HOLD_LEARN_B1: 70.07632
+  response: 708056210892CDC
+- expected_values:
+    TOYOTA_EXHAUST_VVT_HOLD_LEARN_B1: 70.57669
+  response: 708056210892D2E
+- expected_values:
+    TOYOTA_EXHAUST_VVT_HOLD_LEARN_B1: 70.74755
+  response: 708056210892D4A
+- expected_values:
+    TOYOTA_EXHAUST_VVT_HOLD_LEARN_B1: 71.11367
+  response: 708056210892D86
