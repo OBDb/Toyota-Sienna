@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     TOYOTA_D_SIDE_: 0
   response: 7CC03612400
+- expected_values:
+    TOYOTA_D_SIDE_: 91
+  response: 7CC0361245B
