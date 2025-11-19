@@ -39,3 +39,8 @@ test_cases:
   response: |-
     7080762105C82627FA6
     7080562108809B3
+- expected_values:
+    TOYOTA_EXHAUST_VVT_ANGLE_B1: 0
+  response: |-
+    7080762105C82687FA0
+    708056210880000

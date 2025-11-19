@@ -11,8 +11,11 @@ test_cases:
     708046210AA00
     70804621F4634
 - expected_values:
-    TOYOTA_AMBIENT_T: 11
-  response: 70804621F4633
+    TOYOTA_AMBIENT_T: 6
+  response: 70804621F462E
+- expected_values:
+    TOYOTA_AMBIENT_T: 7
+  response: 70804621F462F
 - expected_values:
     TOYOTA_AMBIENT_T: 22
   response: 70804621F463E
@@ -31,6 +34,11 @@ test_cases:
   response: |-
     7080562162774E0
     70804621F4634
+- expected_values:
+    TOYOTA_AMBIENT_T: 8
+  response: |-
+    70805621F3F134E
+    70804621F4630
 - expected_values:
     TOYOTA_AMBIENT_T: 16
   response: |-
