@@ -76,6 +76,11 @@ test_cases:
     TOYOTA_EXHAUST_VVT_OCV_CONTROL_DUTY: 60.45014
   response: 7080562106226B0
 - expected_values:
+    TOYOTA_EXHAUST_VVT_OCV_CONTROL_DUTY: 42.35294
+  response: |-
+    7080562106CF769
+    708056210621B1B
+- expected_values:
     TOYOTA_EXHAUST_VVT_OCV_CONTROL_DUTY: 50.15335
   response: |-
     708056210710F8E
@@ -96,11 +101,6 @@ test_cases:
     708056210CD8FFF
     708056210621AE2
 - expected_values:
-    TOYOTA_EXHAUST_VVT_OCV_CONTROL_DUTY: 53.26009
-  response: |-
-    708056210CD901D
-    708056210622216
-- expected_values:
     TOYOTA_EXHAUST_VVT_OCV_CONTROL_DUTY: 42.91447
   response: |-
     70805621F3C1105
@@ -110,6 +110,11 @@ test_cases:
   response: |-
     7080762101904A88000
     7080562106219C8
+- expected_values:
+    TOYOTA_EXHAUST_VVT_OCV_CONTROL_DUTY: 48.32227
+  response: |-
+    7080762101905888B54
+    708056210621EED
 - expected_values:
     TOYOTA_EXHAUST_VVT_OCV_CONTROL_DUTY: 51.69146
   response: |-
