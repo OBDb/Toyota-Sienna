@@ -12,15 +12,31 @@ test_cases:
     708056210170DE3
     7080462162104
 - expected_values:
-    TOYOTA_GEAR_V2: 5
+    TOYOTA_GEAR_V2: 4
   response: |-
-    708056215FA1480
-    7080462162105
+    7080562106CF779
+    7080462162104
+- expected_values:
+    TOYOTA_GEAR_V2: 6
+  response: |-
+    708056210710E59
+    7080462162106
+- expected_values:
+    TOYOTA_GEAR_V2: 7
+  response: |-
+    708056215FA0E80
+    7080462162107
 - expected_values:
     TOYOTA_GEAR_V2: 1
   response: |-
     70805621F3F0B78
     7080462162101
+- expected_values:
+    TOYOTA_GEAR_V2: 8
+  response: |-
+    7082102140000280028
+    7082200000000000000
+    7080462162108
 - expected_values:
     TOYOTA_GEAR_V2: 6
   response: |-
