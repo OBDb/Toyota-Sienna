@@ -16,6 +16,11 @@ test_cases:
     708056210180FAB
     708056210892D52
 - expected_values:
+    TOYOTA_EXHAUST_VVT_HOLD_LEARN_B1: 69.82613
+  response: |-
+    7080562106F0B30
+    708056210892CB3
+- expected_values:
     TOYOTA_EXHAUST_VVT_HOLD_LEARN_B1: 59.80041
   response: '708056210892648'
 - expected_values:
@@ -25,8 +30,8 @@ test_cases:
     TOYOTA_EXHAUST_VVT_HOLD_LEARN_B1: 70.44855
   response: 708056210892D19
 - expected_values:
-    TOYOTA_EXHAUST_VVT_HOLD_LEARN_B1: 71.11367
-  response: 708056210892D86
+    TOYOTA_EXHAUST_VVT_HOLD_LEARN_B1: 70.894
+  response: 708056210892D62
 - expected_values:
     TOYOTA_EXHAUST_VVT_HOLD_LEARN_B1: 71.11978
   response: |-

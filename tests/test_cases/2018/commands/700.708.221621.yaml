@@ -1,6 +1,11 @@
 command_id: 700.708.221621
 test_cases:
 - expected_values:
+    TOYOTA_GEAR_V2: 5
+  response: |-
+    7080462162001
+    7080462162105
+- expected_values:
     TOYOTA_GEAR_V2: 1
   response: '7080462162101'
 - expected_values:
@@ -21,6 +26,11 @@ test_cases:
   response: |-
     708056210710E59
     7080462162106
+- expected_values:
+    TOYOTA_GEAR_V2: 8
+  response: |-
+    708056210880773
+    7080462162108
 - expected_values:
     TOYOTA_GEAR_V2: 7
   response: |-
