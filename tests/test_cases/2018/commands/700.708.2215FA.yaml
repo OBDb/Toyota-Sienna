@@ -1,10 +1,20 @@
 command_id: 700.708.2215FA
 test_cases:
 - expected_values:
+    TOYOTA_ALT_DUTY_CYCLE: 28.87805
+  response: |-
+    708056210416363
+    708056215FA1280
+- expected_values:
     TOYOTA_ALT_DUTY_CYCLE: 22.63415
   response: |-
     708056210710F15
     708056215FA0E80
+- expected_values:
+    TOYOTA_ALT_DUTY_CYCLE: 25.7561
+  response: |-
+    708056210CD8FE4
+    708056215FA1080
 - expected_values:
     TOYOTA_ALT_DUTY_CYCLE: 19.5122
   response: 708056215FA0C80

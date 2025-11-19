@@ -1,6 +1,12 @@
 command_id: 701.709.221627
 test_cases:
 - expected_values:
+    TOYOTA_TF1_PAN: 158
+    TOYOTA_TFP_T: 70
+  response: |-
+    7090462162000
+    709056216276E00
+- expected_values:
     TOYOTA_TF1_PAN: 59
     TOYOTA_TFP_T: 15
   response: '709056216273700'

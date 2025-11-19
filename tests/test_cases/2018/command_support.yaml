@@ -48,6 +48,7 @@ supported_commands_by_ecu:
   - 7DF.0105
   - 7DF.010D
   - 7DF.0110
+  - 7DF.0111
   - 7DF.0131
   - 7DF.0144
   "7E0":
@@ -278,8 +279,6 @@ unsupported_commands_by_ecu:
   - 7D2.7DA.22182A:TOYOTA_HVBAT_MIN_T
   - 7D2.7DA.221F0D
   - 7D2.7DA.221F9A:TOYOTA_HVBAT_C,TOYOTA_HVBAT_V
-  "7DF":
-  - 7DF.0111
   "7E0":
   - 7E0.0104:LOAD_PCT
   - 7E0.0105:ECT

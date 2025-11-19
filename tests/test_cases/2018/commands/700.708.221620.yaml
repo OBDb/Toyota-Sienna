@@ -19,6 +19,11 @@ test_cases:
 - expected_values:
     TOYOTA_AT_LOCK_UP_STATE: 0
   response: |-
+    7080562106A0F25
+    7080462162000
+- expected_values:
+    TOYOTA_AT_LOCK_UP_STATE: 0
+  response: |-
     7080562106CF75E
     7080462162000
 - expected_values:
@@ -35,4 +40,9 @@ test_cases:
     TOYOTA_AT_LOCK_UP_STATE: 0
   response: |-
     70805621F3F0BDC
+    7080462162000
+- expected_values:
+    TOYOTA_AT_LOCK_UP_STATE: 0
+  response: |-
+    7082187820000000000
     7080462162000
