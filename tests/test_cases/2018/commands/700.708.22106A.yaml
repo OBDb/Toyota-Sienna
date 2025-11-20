@@ -6,6 +6,11 @@ test_cases:
     708046210463B
     7080562106A0F51
 - expected_values:
+    TOYOTA_FUEL_PUMP_DUTY_RATIO: 212.80488
+  response: |-
+    7080462162001
+    7080562106A0DA2
+- expected_values:
     TOYOTA_FUEL_PUMP_DUTY_RATIO: 242.07317
   response: |-
     70805621017211C
@@ -42,6 +47,11 @@ test_cases:
   response: |-
     708056210CD8FD5
     7080562106A0F16
+- expected_values:
+    TOYOTA_FUEL_PUMP_DUTY_RATIO: 245
+  response: |-
+    708056215FA1080
+    7080562106A0FB2
 - expected_values:
     TOYOTA_FUEL_PUMP_DUTY_RATIO: 212.0122
   response: |-
