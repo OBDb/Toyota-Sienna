@@ -6,10 +6,10 @@ test_cases:
     TOYOTA_VSS_V3: 0
   response: 7B803612100
 - expected_values:
-    TOYOTA_VEHICLE_SPEED_7B0: 121.6
-    TOYOTA_VSS: 128.25
-    TOYOTA_VSS_V3: 121.6
-  response: 7B80361215F
+    TOYOTA_VEHICLE_SPEED_7B0: 128
+    TOYOTA_VSS: 135
+    TOYOTA_VSS_V3: 128
+  response: 7B803612164
 - expected_values:
     TOYOTA_VEHICLE_SPEED_7B0: 0
     TOYOTA_VSS: 0
