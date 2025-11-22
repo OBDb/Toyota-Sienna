@@ -31,14 +31,20 @@ test_cases:
     70805621F3C17CD
     70805621F3D17CD
 - expected_values:
+    TOYOTA_CAT_T_21: 639.68
+  response: 70805621F3D0EC0
+- expected_values:
     TOYOTA_CAT_T_21: 748.94
   response: 70805621F3D111F
 - expected_values:
-    TOYOTA_CAT_T_21: 1294.52
-  response: 70805621F3D1CF6
+    TOYOTA_CAT_T_21: 973.22
+  response: 70805621F3D15FD
 - expected_values:
-    TOYOTA_CAT_T_21: 1392.44
-  response: 70805621F3D1F16
+    TOYOTA_CAT_T_21: 1205.06
+  response: 70805621F3D1B05
+- expected_values:
+    TOYOTA_CAT_T_21: 1520.06
+  response: 70805621F3D21DB
 - expected_values:
     TOYOTA_CAT_T_21: 1039.46
   response: |-
