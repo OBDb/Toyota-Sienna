@@ -4,8 +4,8 @@ test_cases:
     TOYOTA_AAT: 8.55
   response: 7CC0361225B
 - expected_values:
-    TOYOTA_AAT: 21.15
-  response: 7CC0361227F
+    TOYOTA_AAT: 23.25
+  response: 7CC03612285
 - expected_values:
     TOYOTA_AAT: 8.9
   response: |-
