@@ -4,8 +4,8 @@ test_cases:
     TOYOTA_EVAP_FIN_THERMISTOR: -0.65
   response: 7CC03614B53
 - expected_values:
-    TOYOTA_EVAP_FIN_THERMISTOR: 4.95
-  response: 7CC03614B63
+    TOYOTA_EVAP_FIN_THERMISTOR: 5.65
+  response: 7CC03614B65
 - expected_values:
     TOYOTA_EVAP_FIN_THERMISTOR: 0.75
   response: |-
