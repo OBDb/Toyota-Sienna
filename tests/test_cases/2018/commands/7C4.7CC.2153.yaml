@@ -9,5 +9,11 @@ test_cases:
     TOYOTA_REGULATOR_P: 0.47005
   response: 7CC0361533F
 - expected_values:
-    TOYOTA_REGULATOR_P: 0.8378
-  response: 7CC03615358
+    TOYOTA_REGULATOR_P: 0.89664
+  response: 7CC0361535C
+- expected_values:
+    TOYOTA_REGULATOR_P: 0.85251
+  response: |-
+    7CC0661434A4A0000
+    7CC03612400
+    7CC03615359
