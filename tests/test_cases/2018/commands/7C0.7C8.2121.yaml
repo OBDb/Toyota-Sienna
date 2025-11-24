@@ -16,3 +16,8 @@ test_cases:
   response: |-
     7C80361A7C0
     7C80361211D
+- expected_values:
+    TOYOTA_VSS_7C0: 37
+  response: |-
+    7C80361A7C0
+    7C803612125
