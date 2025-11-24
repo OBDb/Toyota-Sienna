@@ -47,8 +47,8 @@ test_cases:
     TOYOTA_EXHAUST_VVT_ANGLE_B1: 39.9553
   response: 708056210880FFC
 - expected_values:
-    TOYOTA_EXHAUST_VVT_ANGLE_B1: 43.26538
-  response: 70805621088114F
+    TOYOTA_EXHAUST_VVT_ANGLE_B1: 42.9334
+  response: 70805621088112D
 - expected_values:
     TOYOTA_EXHAUST_VVT_ANGLE_B1: 24.24463
   response: |-
