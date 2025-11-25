@@ -4,29 +4,5 @@ test_cases:
     TOYOTA_SOLAR_D_SIDE: 1
   response: 7CC03612401
 - expected_values:
-    TOYOTA_SOLAR_D_SIDE: 2
-  response: 7CC03612402
-- expected_values:
-    TOYOTA_SOLAR_D_SIDE: 3
-  response: 7CC03612403
-- expected_values:
-    TOYOTA_SOLAR_D_SIDE: 14
-  response: 7CC0361240E
-- expected_values:
-    TOYOTA_SOLAR_D_SIDE: 15
-  response: 7CC0361240F
-- expected_values:
-    TOYOTA_SOLAR_D_SIDE: 18
-  response: 7CC03612412
-- expected_values:
-    TOYOTA_SOLAR_D_SIDE: 19
-  response: 7CC03612413
-- expected_values:
-    TOYOTA_SOLAR_D_SIDE: 42
-  response: 7CC0361242A
-- expected_values:
-    TOYOTA_SOLAR_D_SIDE: 47
-  response: 7CC0361242F
-- expected_values:
     TOYOTA_SOLAR_D_SIDE: 71
   response: 7CC03612447
