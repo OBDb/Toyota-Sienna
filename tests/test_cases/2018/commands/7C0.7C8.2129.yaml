@@ -27,8 +27,8 @@ test_cases:
     TOYOTA_FUEL_INPUT: 145
   response: 7C803612991
 - expected_values:
-    TOYOTA_FLI_VOL: 5.28402
-    TOYOTA_FUEL_INPUT: 40
+    TOYOTA_FLI_VOL: 4.88771
+    TOYOTA_FUEL_INPUT: 37
   response: |-
     7C80361A7C0
-    7C803612928
+    7C803612925
