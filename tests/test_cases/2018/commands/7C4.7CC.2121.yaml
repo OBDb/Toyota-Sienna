@@ -4,8 +4,8 @@ test_cases:
     TOYOTA_CABIN_T: 12
   response: 7CC0361214A
 - expected_values:
-    TOYOTA_CABIN_T: 27.25
-  response: 7CC03612187
+    TOYOTA_CABIN_T: 28.5
+  response: 7CC0361218C
 - expected_values:
     TOYOTA_CABIN_T: 25.5
   response: |-
