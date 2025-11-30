@@ -17,10 +17,10 @@ test_cases:
     7C80361A7C0
     7C80361237D
 - expected_values:
-    TOYOTA_COOLANT_T: 65.5
+    TOYOTA_COOLANT_T: 88
   response: |-
     7C80361A7C0
-    7C803612383
+    7C8036123B0
 - expected_values:
     TOYOTA_COOLANT_T: 95
   response: |-
