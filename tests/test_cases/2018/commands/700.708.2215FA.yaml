@@ -26,8 +26,8 @@ test_cases:
     708056210CD8FE4
     708056215FA1080
 - expected_values:
-    TOYOTA_ALT_DUTY_CYCLE: 13.26829
-  response: 708056215FA0880
+    TOYOTA_ALT_DUTY_CYCLE: 9.36585
+  response: 708056215FA0600
 - expected_values:
     TOYOTA_ALT_DUTY_CYCLE: 19.5122
   response: 708056215FA0C80
