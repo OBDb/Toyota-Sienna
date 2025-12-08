@@ -14,7 +14,18 @@ test_cases:
 - expected_values:
     TOYOTA_SOLAR_D_SIDE: 1
   response: |-
+    7CC04614C8064
+    7CC06614407070F02
+    7CC03612401
+- expected_values:
+    TOYOTA_SOLAR_D_SIDE: 1
+  response: |-
     7CC0661434A4A0000
+    7CC03612401
+- expected_values:
+    TOYOTA_SOLAR_D_SIDE: 1
+  response: |-
+    7CC06614407070F02
     7CC03612401
 - expected_values:
     TOYOTA_SOLAR_D_SIDE: 1
