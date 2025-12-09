@@ -3,3 +3,8 @@ test_cases:
 - expected_values:
     TOYOTA_INSPECTION_MODE: 0
   response: 7B80361A600
+- expected_values:
+    TOYOTA_INSPECTION_MODE: 0
+  response: |-
+    7B80361BC04
+    7B80361A600
