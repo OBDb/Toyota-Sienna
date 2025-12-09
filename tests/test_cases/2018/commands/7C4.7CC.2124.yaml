@@ -1,40 +1,40 @@
 command_id: 7C4.7CC.2124
 test_cases:
 - expected_values:
-    TOYOTA_SOLAR_D_SIDE: 0
+    TOYOTA_SOLAR_DRIVER: 0
   response: 7CC03612400
 - expected_values:
-    TOYOTA_SOLAR_D_SIDE: 82
+    TOYOTA_SOLAR_DRIVER: 82
   response: 7CC03612452
 - expected_values:
-    TOYOTA_SOLAR_D_SIDE: 1
+    TOYOTA_SOLAR_DRIVER: 1
   response: |-
     7CC04614C8064
     7CC03612401
 - expected_values:
-    TOYOTA_SOLAR_D_SIDE: 1
+    TOYOTA_SOLAR_DRIVER: 1
   response: |-
     7CC04614C8064
     7CC06614407070F02
     7CC03612401
 - expected_values:
-    TOYOTA_SOLAR_D_SIDE: 1
+    TOYOTA_SOLAR_DRIVER: 1
   response: |-
     7CC0661434A4A0000
     7CC03612401
 - expected_values:
-    TOYOTA_SOLAR_D_SIDE: 1
+    TOYOTA_SOLAR_DRIVER: 1
   response: |-
     7CC06614407070F02
     7CC03612401
 - expected_values:
-    TOYOTA_SOLAR_D_SIDE: 1
+    TOYOTA_SOLAR_DRIVER: 1
   response: |-
     7CC06614407070F02
     7CC04614C8064
     7CC03612401
 - expected_values:
-    TOYOTA_SOLAR_D_SIDE: 2
+    TOYOTA_SOLAR_DRIVER: 2
   response: |-
     7CC0661441C1C0F02
     7CC04614C8064
