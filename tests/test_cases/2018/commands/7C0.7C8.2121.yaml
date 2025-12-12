@@ -5,9 +5,9 @@ test_cases:
     TOYOTA_VSS_V2: 0
   response: 7C803612100
 - expected_values:
-    TOYOTA_VSS_7C0: 131
-    TOYOTA_VSS_V2: 131
-  response: 7C803612183
+    TOYOTA_VSS_7C0: 143
+    TOYOTA_VSS_V2: 143
+  response: 7C80361218F
 - expected_values:
     TOYOTA_VSS_7C0: 0
     TOYOTA_VSS_V2: 0
