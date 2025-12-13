@@ -9,6 +9,14 @@ test_cases:
     7B80361BC04
     7B806610317161717
 - expected_values:
+    TOYOTA_TIRE_FL_SPD: 66.56
+    TOYOTA_TIRE_FR_SPD: 65.28
+    TOYOTA_TIRE_RL_SPD: 65.28
+    TOYOTA_TIRE_RR_SPD: 65.28
+  response: |-
+    7B80361BC04
+    7B806610333343333
+- expected_values:
     TOYOTA_TIRE_FL_SPD: 0
     TOYOTA_TIRE_FR_SPD: 0
     TOYOTA_TIRE_RL_SPD: 0
