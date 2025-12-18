@@ -40,5 +40,5 @@ test_cases:
     TOYOTA_ODO_V5: 94464
   response: '7090762010302017100'
 - expected_values:
-    TOYOTA_ODO_V5: 104960
-  response: 7090762010302019A00
+    TOYOTA_ODO_V5: 105216
+  response: 7090762010302019B00
