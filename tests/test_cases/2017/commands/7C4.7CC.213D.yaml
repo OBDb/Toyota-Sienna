@@ -4,5 +4,5 @@ test_cases:
     TOYOTA_ADJUSTED_AMBIENT_T: 10.48
   response: 7CC03613D81
 - expected_values:
-    TOYOTA_ADJUSTED_AMBIENT_T: 27.76
-  response: 7CC03613DB7
+    TOYOTA_ADJUSTED_AMBIENT_T: 28.4
+  response: 7CC03613DB9
