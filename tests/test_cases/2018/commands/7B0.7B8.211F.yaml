@@ -8,6 +8,12 @@ test_cases:
     7B804611F0000
 - expected_values:
     TOYOTA_PARKING_BRAKE_SW: 0
+    TOYOTA_STOP_LIGHT_SW: 1
+  response: |-
+    7B80361BC04
+    7B804611F8020
+- expected_values:
+    TOYOTA_PARKING_BRAKE_SW: 0
     TOYOTA_STOP_LIGHT_SW: 0
   response: 7B804611F0000
 - expected_values:
