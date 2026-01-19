@@ -1,6 +1,14 @@
 command_id: 700.708.22107B
 test_cases:
 - expected_values:
+    TOYOTA_EOT_V2: 45
+  response: |-
+    708102262107B000000
+    70821000000CD7F6C81
+    708222580007F6C8000
+    7082380007FFE000086
+    7082455878759430418
+- expected_values:
     TOYOTA_EOT_V2: 28
   response: |-
     708102262107B000000
