@@ -4,5 +4,5 @@ test_cases:
     TOYOTA_OIL_CHANGE_ODO: 6115.5072
   response: 7C803614126
 - expected_values:
-    TOYOTA_OIL_CHANGE_ODO: 7724.8512
-  response: 7C803614130
+    TOYOTA_OIL_CHANGE_ODO: 7885.7856
+  response: 7C803614131
