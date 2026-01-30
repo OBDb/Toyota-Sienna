@@ -1,41 +1,9 @@
 command_id: 7C0.7C8.2129
 test_cases:
 - expected_values:
-    TOYOTA_FLI_VOL: 2.24571
-    TOYOTA_FUEL_INPUT: 17
-  response: 7C803612911
-- expected_values:
-    TOYOTA_FLI_VOL: 2.64201
-    TOYOTA_FUEL_INPUT: 20
-  response: 7C803612914
-- expected_values:
-    TOYOTA_FLI_VOL: 4.62351
-    TOYOTA_FUEL_INPUT: 35
-  response: 7C803612923
-- expected_values:
-    TOYOTA_FLI_VOL: 5.01982
-    TOYOTA_FUEL_INPUT: 38
-  response: 7C803612926
-- expected_values:
-    TOYOTA_FLI_VOL: 5.81242
-    TOYOTA_FUEL_INPUT: 44
-  response: 7C80361292C
-- expected_values:
-    TOYOTA_FLI_VOL: 6.60502
-    TOYOTA_FUEL_INPUT: 50
-  response: 7C803612932
-- expected_values:
-    TOYOTA_FLI_VOL: 7.39762
-    TOYOTA_FUEL_INPUT: 56
-  response: 7C803612938
-- expected_values:
-    TOYOTA_FLI_VOL: 7.79392
-    TOYOTA_FUEL_INPUT: 59
-  response: 7C80361293B
-- expected_values:
-    TOYOTA_FLI_VOL: 10.56803
-    TOYOTA_FUEL_INPUT: 80
-  response: 7C803612950
+    TOYOTA_FLI_VOL: 2.11361
+    TOYOTA_FUEL_INPUT: 16
+  response: 7C803612910
 - expected_values:
     TOYOTA_FLI_VOL: 12.28534
     TOYOTA_FUEL_INPUT: 93
