@@ -57,11 +57,6 @@ test_cases:
     7CC06614407070F02
     7CC0361267B
 - expected_values:
-    TOYOTA_ECT: 71.65
-  response: |-
-    7CC06614407070F02
-    7CC036126C9
-- expected_values:
     TOYOTA_ECT: 90.55
   response: |-
     7CC06614407070F02
@@ -77,6 +72,11 @@ test_cases:
   response: |-
     7CC06614407071102
     7CC036126FF
+- expected_values:
+    TOYOTA_ECT: 76.55
+  response: |-
+    7CC0661441C1C0000
+    7CC036126D7
 - expected_values:
     TOYOTA_ECT: 90.55
   response: |-
