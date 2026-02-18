@@ -4,5 +4,5 @@ test_cases:
     TOYOTA_BAT_V: 12.8
   response: 7C803611380
 - expected_values:
-    TOYOTA_BAT_V: 14.3
-  response: 7C80361138F
+    TOYOTA_BAT_V: 14.4
+  response: 7C803611390
