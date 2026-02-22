@@ -56,6 +56,12 @@ test_cases:
     7CC04614C8096
     7CC0361240C
 - expected_values:
+    TOYOTA_SOLAR_DRIVER: 2
+  response: |-
+    7CC06614407070000
+    7CC0661431E1E0000
+    7CC03612402
+- expected_values:
     TOYOTA_SOLAR_DRIVER: 1
   response: |-
     7CC06614407070F02
