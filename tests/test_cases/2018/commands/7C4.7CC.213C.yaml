@@ -73,6 +73,12 @@ test_cases:
     7CC06614361610000
     7CC03613C09
 - expected_values:
+    TOYOTA_BLOWER_MOTOR_SPEED_LEVEL: 6
+  response: |-
+    7CC06614361610000
+    7CC0661441C1C0000
+    7CC03613C06
+- expected_values:
     TOYOTA_BLOWER_MOTOR_SPEED_LEVEL: 10
   response: |-
     7CC06614407070000
