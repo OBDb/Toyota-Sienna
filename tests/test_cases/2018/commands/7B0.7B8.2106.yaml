@@ -9,13 +9,13 @@ test_cases:
     7B80361BC04
     7B8056106787DF3
 - expected_values:
-    TOYOTA_YAW_1: -3
+    TOYOTA_YAW_1: -1
     TOYOTA_YAW_2: -1
-    TOYOTA_YAW_RATE: -3
+    TOYOTA_YAW_RATE: -1
     TOYOTA_YAW_RATE2: -1
   response: |-
     7B80361BC04
-    7B80561067D7F2E
+    7B80561067F7FB5
 - expected_values:
     TOYOTA_YAW_1: 0
     TOYOTA_YAW_2: -3
