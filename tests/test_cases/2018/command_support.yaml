@@ -138,6 +138,7 @@ supported_commands_by_ecu:
   - 0130:WARM_UPS
   - 7E1.7E9.0104
   - 7E1.7E9.010D
+  - 7E1.7E9.0111
   - 7E1.7E9.0131
 unsupported_commands_by_ecu:
   "6F1":
@@ -322,6 +323,5 @@ unsupported_commands_by_ecu:
   - 7E0.7E8.21DA:TOYOTA_GEAR_V3
   "7E1":
   - 7E1.7E9.0105
-  - 7E1.7E9.0111
   - 7E1.7E9.011C
   - 7E1.7E9.0142
