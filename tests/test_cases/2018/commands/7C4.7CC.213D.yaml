@@ -84,10 +84,10 @@ test_cases:
     7CC06614407070000
     7CC03613D7E
 - expected_values:
-    TOYOTA_ADJUSTED_AMBIENT_T: 10.16
+    TOYOTA_ADJUSTED_AMBIENT_T: 15.28
   response: |-
     7CC06614407070000
-    7CC03613D80
+    7CC03613D90
 - expected_values:
     TOYOTA_ADJUSTED_AMBIENT_T: 8.24
   response: |-
