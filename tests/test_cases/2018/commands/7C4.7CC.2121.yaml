@@ -51,6 +51,11 @@ test_cases:
     7CC0661431E1E0000
     7CC0361217E
 - expected_values:
+    TOYOTA_CABIN_T: 24
+  response: |-
+    7CC04614C81BC
+    7CC0361217A
+- expected_values:
     TOYOTA_CABIN_T: 24.75
   response: |-
     7CC04614C81F4
