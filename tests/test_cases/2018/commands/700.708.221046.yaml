@@ -4,8 +4,8 @@ test_cases:
     TOYOTA_COOLING_FAN_DUTY_RATIO: 0
   response: '7080462104600'
 - expected_values:
-    TOYOTA_COOLING_FAN_DUTY_RATIO: 58.5
-  response: '7080462104675'
+    TOYOTA_COOLING_FAN_DUTY_RATIO: 61.5
+  response: 708046210467B
 - expected_values:
     TOYOTA_COOLING_FAN_DUTY_RATIO: 0
   response: |-
