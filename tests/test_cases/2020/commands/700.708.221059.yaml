@@ -1,0 +1,32 @@
+command_id: 700.708.221059
+test_cases:
+- expected_values:
+    TOYOTA_ACCEL_PEDAL: 0
+  response: |-
+    708100A621059285128
+    7082151000000000000
+- expected_values:
+    TOYOTA_ACCEL_PEDAL: 0
+  response: |-
+    708100A621059285129
+    7082152000000000000
+- expected_values:
+    TOYOTA_ACCEL_PEDAL: 5.47887
+  response: |-
+    708100A621059426A29
+    70821520C8F00000000
+- expected_values:
+    TOYOTA_ACCEL_PEDAL: 8.29577
+  response: |-
+    708100A621059466F29
+    70821520F2B00000000
+- expected_values:
+    TOYOTA_ACCEL_PEDAL: 12.52113
+  response: |-
+    708100A6210594C7429
+    7082152125C00000000
+- expected_values:
+    TOYOTA_ACCEL_PEDAL: 14.6338
+  response: |-
+    708100A6210594F7729
+    7082152140000000000

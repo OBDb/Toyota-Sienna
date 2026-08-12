@@ -1,0 +1,17 @@
+command_id: 7C4.7CC.213C
+test_cases:
+- expected_values:
+    TOYOTA_BLOWER_MOTOR_SPEED_LEVEL: 18
+  response: 7CC03613C12
+- expected_values:
+    TOYOTA_BLOWER_MOTOR_SPEED_LEVEL: 22
+  response: 7CC03613C16
+- expected_values:
+    TOYOTA_BLOWER_MOTOR_SPEED_LEVEL: 23
+  response: 7CC03613C17
+- expected_values:
+    TOYOTA_BLOWER_MOTOR_SPEED_LEVEL: 26
+  response: 7CC03613C1A
+- expected_values:
+    TOYOTA_BLOWER_MOTOR_SPEED_LEVEL: 31
+  response: 7CC03613C1F
