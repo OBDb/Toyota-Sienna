@@ -4,5 +4,8 @@ test_cases:
     TOYOTA_RHEOSTAT: 207
   response: 7C8036168CF
 - expected_values:
+    TOYOTA_RHEOSTAT: 208
+  response: 7C8036168D0
+- expected_values:
     TOYOTA_RHEOSTAT: 209
   response: 7C8036168D1
