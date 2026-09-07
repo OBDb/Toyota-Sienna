@@ -7,7 +7,7 @@ test_cases:
     TOYOTA_ZP_YAW_RATE: 0
   response: |-
     7B8100961460002807F
-    7B821D90C1F00000000
+    7B821D80C1F00000000
 - expected_values:
     TOYOTA_ZP_DEC: -25.11
     TOYOTA_ZP_DEC2: -24.71769
