@@ -1,14 +1,14 @@
 command_id: 7C0.7C8.2168
 test_cases:
 - expected_values:
-    TOYOTA_RHEOSTAT: 207
+    SIENNA_RHEOSTAT: 207
   response: 7C8036168CF
 - expected_values:
-    TOYOTA_RHEOSTAT: 208
+    SIENNA_RHEOSTAT: 208
   response: 7C8036168D0
 - expected_values:
-    TOYOTA_RHEOSTAT: 209
+    SIENNA_RHEOSTAT: 209
   response: 7C8036168D1
 - expected_values:
-    TOYOTA_RHEOSTAT: 210
+    SIENNA_RHEOSTAT: 210
   response: 7C8036168D2

@@ -1,11 +1,11 @@
 command_id: 700.708.221018
 test_cases:
 - expected_values:
-    TOYOTA_INJECTOR_PORT: 0
+    SIENNA_INJECTOR_PORT: 0
   response: '708056210180000'
 - expected_values:
-    TOYOTA_INJECTOR_PORT: 3.327
+    SIENNA_INJECTOR_PORT: 3.327
   response: 708056210180CFF
 - expected_values:
-    TOYOTA_INJECTOR_PORT: 21.017
+    SIENNA_INJECTOR_PORT: 21.017
   response: '708056210185219'

@@ -1,14 +1,14 @@
 command_id: 700.708.221F3E
 test_cases:
 - expected_values:
-    TOYOTA_CAT_T_12: 26.4
+    SIENNA_CAT_T_12: 26.4
   response: 70805621F3E0298
 - expected_values:
-    TOYOTA_CAT_T_12: 62.4
+    SIENNA_CAT_T_12: 62.4
   response: 70805621F3E0400
 - expected_values:
-    TOYOTA_CAT_T_12: 215.9
+    SIENNA_CAT_T_12: 215.9
   response: 70805621F3E09FF
 - expected_values:
-    TOYOTA_CAT_T_12: 681.7
+    SIENNA_CAT_T_12: 681.7
   response: 70805621F3E1C31

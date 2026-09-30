@@ -1,124 +1,124 @@
 command_id: 7C4.7CC.2124
 test_cases:
 - expected_values:
-    TOYOTA_SOLAR_DRIVER: 0
+    SIENNA_SOLAR_DRIVER: 0
   response: 7CC03612400
 - expected_values:
-    TOYOTA_SOLAR_DRIVER: 237
+    SIENNA_SOLAR_DRIVER: 237
   response: 7CC036124ED
 - expected_values:
-    TOYOTA_SOLAR_DRIVER: 1
+    SIENNA_SOLAR_DRIVER: 1
   response: |-
     7CC04614C8064
     7CC03612401
 - expected_values:
-    TOYOTA_SOLAR_DRIVER: 12
+    SIENNA_SOLAR_DRIVER: 12
   response: |-
     7CC04614C8064
     7CC0361240C
 - expected_values:
-    TOYOTA_SOLAR_DRIVER: 48
+    SIENNA_SOLAR_DRIVER: 48
   response: |-
     7CC04614C8064
     7CC03612430
 - expected_values:
-    TOYOTA_SOLAR_DRIVER: 1
+    SIENNA_SOLAR_DRIVER: 1
   response: |-
     7CC04614C8064
     7CC0661431E1E0000
     7CC03612401
 - expected_values:
-    TOYOTA_SOLAR_DRIVER: 4
+    SIENNA_SOLAR_DRIVER: 4
   response: |-
     7CC04614C8064
     7CC06614407070000
     7CC03612404
 - expected_values:
-    TOYOTA_SOLAR_DRIVER: 1
+    SIENNA_SOLAR_DRIVER: 1
   response: |-
     7CC04614C8064
     7CC06614407070F02
     7CC03612401
 - expected_values:
-    TOYOTA_SOLAR_DRIVER: 55
+    SIENNA_SOLAR_DRIVER: 55
   response: |-
     7CC04614C81F4
     7CC03612437
 - expected_values:
-    TOYOTA_SOLAR_DRIVER: 137
+    SIENNA_SOLAR_DRIVER: 137
   response: |-
     7CC06614308080000
     7CC04614C813C
     7CC03612489
 - expected_values:
-    TOYOTA_SOLAR_DRIVER: 61
+    SIENNA_SOLAR_DRIVER: 61
   response: |-
     7CC06614308080000
     7CC06614407070000
     7CC0361243D
 - expected_values:
-    TOYOTA_SOLAR_DRIVER: 1
+    SIENNA_SOLAR_DRIVER: 1
   response: |-
     7CC0661431E1E0000
     7CC03612401
 - expected_values:
-    TOYOTA_SOLAR_DRIVER: 9
+    SIENNA_SOLAR_DRIVER: 9
   response: |-
     7CC0661434A4A0000
     7CC06614407071102
     7CC03612409
 - expected_values:
-    TOYOTA_SOLAR_DRIVER: 1
+    SIENNA_SOLAR_DRIVER: 1
   response: |-
     7CC06614361610000
     7CC03612401
 - expected_values:
-    TOYOTA_SOLAR_DRIVER: 1
+    SIENNA_SOLAR_DRIVER: 1
   response: |-
     7CC06614407070000
     7CC03612401
 - expected_values:
-    TOYOTA_SOLAR_DRIVER: 46
+    SIENNA_SOLAR_DRIVER: 46
   response: |-
     7CC06614407070000
     7CC0361242E
 - expected_values:
-    TOYOTA_SOLAR_DRIVER: 1
+    SIENNA_SOLAR_DRIVER: 1
   response: |-
     7CC06614407070000
     7CC04614C8064
     7CC03612401
 - expected_values:
-    TOYOTA_SOLAR_DRIVER: 2
+    SIENNA_SOLAR_DRIVER: 2
   response: |-
     7CC06614407070000
     7CC0661431E1E0000
     7CC03612402
 - expected_values:
-    TOYOTA_SOLAR_DRIVER: 88
+    SIENNA_SOLAR_DRIVER: 88
   response: |-
     7CC06614407070000
     7CC0661431E1E0000
     7CC03612458
 - expected_values:
-    TOYOTA_SOLAR_DRIVER: 1
+    SIENNA_SOLAR_DRIVER: 1
   response: |-
     7CC06614407070F02
     7CC03612401
 - expected_values:
-    TOYOTA_SOLAR_DRIVER: 1
+    SIENNA_SOLAR_DRIVER: 1
   response: |-
     7CC06614407070F02
     7CC04614C8064
     7CC03612401
 - expected_values:
-    TOYOTA_SOLAR_DRIVER: 1
+    SIENNA_SOLAR_DRIVER: 1
   response: |-
     7CC06614407070F02
     7CC0661431E1E0000
     7CC03612401
 - expected_values:
-    TOYOTA_SOLAR_DRIVER: 15
+    SIENNA_SOLAR_DRIVER: 15
   response: |-
     7CC0661441C1C1102
     7CC0361240F

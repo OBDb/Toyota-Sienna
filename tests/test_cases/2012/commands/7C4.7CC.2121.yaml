@@ -1,8 +1,8 @@
 command_id: 7C4.7CC.2121
 test_cases:
 - expected_values:
-    TOYOTA_CABIN_T: 22.75
+    SIENNA_CABIN_T: 22.75
   response: 7CC03612175
 - expected_values:
-    TOYOTA_CABIN_T: 43.5
+    SIENNA_CABIN_T: 43.5
   response: 7CC036121C8

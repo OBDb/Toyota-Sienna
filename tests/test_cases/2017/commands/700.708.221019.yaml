@@ -1,14 +1,14 @@
 command_id: 700.708.221019
 test_cases:
 - expected_values:
-    TOYOTA_INJECTION: BOTH
+    SIENNA_INJECTION: BOTH
   response: 7080762101902C08000
 - expected_values:
-    TOYOTA_INJECTION: BOTH
+    SIENNA_INJECTION: BOTH
   response: 7080762101902DC8000
 - expected_values:
-    TOYOTA_INJECTION: BOTH
+    SIENNA_INJECTION: BOTH
   response: 7080762101902EC8000
 - expected_values:
-    TOYOTA_INJECTION: BOTH
+    SIENNA_INJECTION: BOTH
   response: 7080762101902F48000
