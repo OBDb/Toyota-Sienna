@@ -1,7 +1,7 @@
 command_id: 7D0.7D8.2162
 test_cases:
 - expected_values:
-    SIENNA_PARKING_BRAKE: 'OFF'
+    SIENNA_PARKING_BRAKE: 0
   response: |-
     7C603A81184
     7CE1008E81184040000
@@ -9,18 +9,18 @@ test_cases:
     7CE2101000000000000
     7D8046162010A
 - expected_values:
-    SIENNA_PARKING_BRAKE: 'ON'
+    SIENNA_PARKING_BRAKE: 1
   response: |-
     7CE1008E81384040000
     7C6300100
     7CE2101000000000000
     7D80461620300
 - expected_values:
-    SIENNA_PARKING_BRAKE: 'OFF'
+    SIENNA_PARKING_BRAKE: 0
   response: 7D80461620100
 - expected_values:
-    SIENNA_PARKING_BRAKE: 'OFF'
+    SIENNA_PARKING_BRAKE: 0
   response: 7D80461621999
 - expected_values:
-    SIENNA_PARKING_BRAKE: 'ON'
-  response: 7D80461621B00
+    SIENNA_PARKING_BRAKE: 1
+  response: 7D80461621F00
