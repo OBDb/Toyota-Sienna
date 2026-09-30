@@ -1,8 +1,8 @@
 command_id: 780.788.2104
 test_cases:
 - expected_values:
-    TOYOTA_BUCKLE_RS: 2
+    SIENNA_BUCKLE_RS: 2
   response: '78806610401050202'
 - expected_values:
-    TOYOTA_BUCKLE_RS: 1
+    SIENNA_BUCKLE_RS: 1
   response: '78806610402020101'

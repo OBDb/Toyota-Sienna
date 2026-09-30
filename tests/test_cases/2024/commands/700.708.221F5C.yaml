@@ -1,8 +1,8 @@
 command_id: 700.708.221F5C
 test_cases:
 - expected_values:
-    TOYOTA_EOT_V2: 27
+    SIENNA_EOT_V2: 27
   response: 70804621F5C43
 - expected_values:
-    TOYOTA_EOT_V2: 94
+    SIENNA_EOT_V2: 94
   response: 70804621F5C86

@@ -1,8 +1,8 @@
 command_id: 7C4.7CC.2122
 test_cases:
 - expected_values:
-    TOYOTA_AAT_7C4: 11.35
+    SIENNA_AAT_7C4: 11.35
   response: 7CC03612263
 - expected_values:
-    TOYOTA_AAT_7C4: 39
+    SIENNA_AAT_7C4: 39
   response: 7CC036122B2

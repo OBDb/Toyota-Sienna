@@ -1,51 +1,51 @@
 command_id: 700.708.221F46
 test_cases:
 - expected_values:
-    TOYOTA_AMBIENT_T: 15
+    SIENNA_AMBIENT_T: 15
   response: |-
     7080462104664
     70804621F4637
 - expected_values:
-    TOYOTA_AMBIENT_T: 12
+    SIENNA_AMBIENT_T: 12
   response: |-
     708046210AA00
     70804621F4634
 - expected_values:
-    TOYOTA_AMBIENT_T: 0
+    SIENNA_AMBIENT_T: 0
   response: 70804621F4628
 - expected_values:
-    TOYOTA_AMBIENT_T: 5
+    SIENNA_AMBIENT_T: 5
   response: 70804621F462D
 - expected_values:
-    TOYOTA_AMBIENT_T: 62
+    SIENNA_AMBIENT_T: 62
   response: 70804621F4666
 - expected_values:
-    TOYOTA_AMBIENT_T: 9
+    SIENNA_AMBIENT_T: 9
   response: |-
     7080562107108DF
     70804621F4631
 - expected_values:
-    TOYOTA_AMBIENT_T: 12
+    SIENNA_AMBIENT_T: 12
   response: |-
     708056210710F32
     70804621F4634
 - expected_values:
-    TOYOTA_AMBIENT_T: 13
+    SIENNA_AMBIENT_T: 13
   response: |-
     7080562162747E0
     70804621F4635
 - expected_values:
-    TOYOTA_AMBIENT_T: 12
+    SIENNA_AMBIENT_T: 12
   response: |-
     7080562162774E0
     70804621F4634
 - expected_values:
-    TOYOTA_AMBIENT_T: 8
+    SIENNA_AMBIENT_T: 8
   response: |-
     70805621F3F134E
     70804621F4630
 - expected_values:
-    TOYOTA_AMBIENT_T: 16
+    SIENNA_AMBIENT_T: 16
   response: |-
     7082187820000000000
     70804621F4638

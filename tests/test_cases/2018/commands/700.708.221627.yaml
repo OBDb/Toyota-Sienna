@@ -1,32 +1,32 @@
 command_id: 700.708.221627
 test_cases:
 - expected_values:
-    TOYOTA_ATF_T_PAN_V3: 58.75
+    SIENNA_ATF_T_PAN_V3: 58.75
   response: |-
     7080462104600
     7080562162762C0
 - expected_values:
-    TOYOTA_ATF_T_PAN_V3: 57.5
+    SIENNA_ATF_T_PAN_V3: 57.5
   response: |-
     708046210AA00
     708056216276180
 - expected_values:
-    TOYOTA_ATF_T_PAN_V3: 11.875
+    SIENNA_ATF_T_PAN_V3: 11.875
   response: '7080562162733E0'
 - expected_values:
-    TOYOTA_ATF_T_PAN_V3: 30.625
+    SIENNA_ATF_T_PAN_V3: 30.625
   response: 7080562162746A0
 - expected_values:
-    TOYOTA_ATF_T_PAN_V3: 40
+    SIENNA_ATF_T_PAN_V3: 40
   response: '708056216275000'
 - expected_values:
-    TOYOTA_ATF_T_PAN_V3: 66.875
+    SIENNA_ATF_T_PAN_V3: 66.875
   response: 708056216276AE0
 - expected_values:
-    TOYOTA_ATF_T_PAN_V3: 97.5
+    SIENNA_ATF_T_PAN_V3: 97.5
   response: '708056216278980'
 - expected_values:
-    TOYOTA_ATF_T_PAN_V3: 67.5
+    SIENNA_ATF_T_PAN_V3: 67.5
   response: |-
     70821052D0000280027
     7082200000000000000

@@ -1,0 +1,50 @@
+command_id: 7D2.7DA.221F9A|f=2022-
+test_cases:
+- expected_values:
+    SIENNA_HVBAT_C: 140.7
+    SIENNA_HVBAT_V: 282
+  response: |-
+    7DA1009621F9A0E0046
+    7DA2180057F00000000
+- expected_values:
+    SIENNA_HVBAT_C: 21.4
+    SIENNA_HVBAT_V: 288
+  response: |-
+    7DA1009621F9A0E0048
+    7DA210000D600000000
+- expected_values:
+    SIENNA_HVBAT_C: 68.8
+    SIENNA_HVBAT_V: 294
+  response: |-
+    7DA1009621F9A0E0049
+    7DA218002B000000000
+- expected_values:
+    SIENNA_HVBAT_C: 4.8
+    SIENNA_HVBAT_V: 295
+  response: |-
+    7DA1009621F9A0E0049
+    7DA21C0003000000000
+- expected_values:
+    SIENNA_HVBAT_C: -3.1
+    SIENNA_HVBAT_V: 297
+  response: |-
+    7DA1009621F9A0E004A
+    7DA2140FFE100000000
+- expected_values:
+    SIENNA_HVBAT_C: -0.8
+    SIENNA_HVBAT_V: 297
+  response: |-
+    7DA1009621F9A0E004A
+    7DA2140FFF800000000
+- expected_values:
+    SIENNA_HVBAT_C: 0
+    SIENNA_HVBAT_V: 299
+  response: |-
+    7DA1009621F9A0E004A
+    7DA21C0000000000000
+- expected_values:
+    SIENNA_HVBAT_C: -96.9
+    SIENNA_HVBAT_V: 381
+  response: |-
+    7DA1009621F9A0E005F
+    7DA2140FC3700000000

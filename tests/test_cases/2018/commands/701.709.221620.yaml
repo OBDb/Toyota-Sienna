@@ -1,18 +1,18 @@
 command_id: 701.709.221620
 test_cases:
 - expected_values:
-    TOYOTA_LOCK_UP_STATE: 0
+    SIENNA_LOCK_UP_STATE: 0
   response: '7090462162000'
 - expected_values:
-    TOYOTA_LOCK_UP_STATE: 1
+    SIENNA_LOCK_UP_STATE: 1
   response: '7090462162001'
 - expected_values:
-    TOYOTA_LOCK_UP_STATE: 0
+    SIENNA_LOCK_UP_STATE: 0
   response: |-
     7090562162741A0
     7090462162000
 - expected_values:
-    TOYOTA_LOCK_UP_STATE: 0
+    SIENNA_LOCK_UP_STATE: 0
   response: |-
     709076201030201952B
     7090462162000

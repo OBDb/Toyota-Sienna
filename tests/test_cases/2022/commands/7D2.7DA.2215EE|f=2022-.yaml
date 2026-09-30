@@ -1,0 +1,5 @@
+command_id: 7D2.7DA.2215EE|f=2022-
+test_cases:
+- expected_values:
+    SIENNA_12V_V_V2: 13.53514
+  response: 7DA056215EE2B78
