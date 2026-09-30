@@ -1,0 +1,6 @@
+command_id: 7D2.7DA.22106C|fc=1,f=2022-
+test_cases:
+- expected_values:
+    SIENNA_HVBAT_SOC_MAX: 53
+    SIENNA_HVBAT_SOC_MIN: 39.5
+  response: 7DA0662106C6A6A4F

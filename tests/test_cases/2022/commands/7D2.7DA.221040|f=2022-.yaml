@@ -1,0 +1,5 @@
+command_id: 7D2.7DA.221040|f=2022-
+test_cases:
+- expected_values:
+    SIENNA_TRANSAXLE_OIL_T: 30
+  response: 7DA06621040C32046

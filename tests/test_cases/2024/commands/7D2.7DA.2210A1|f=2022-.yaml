@@ -1,0 +1,92 @@
+command_id: 7D2.7DA.2210A1|f=2022-
+test_cases:
+- expected_values:
+    SIENNA_RPM_7D2: -426
+    SIENNA_TQ: -32.125
+  response: |-
+    7DA100C6210A17E567F
+    7DA210503007EFF0400
+- expected_values:
+    SIENNA_RPM_7D2: -259
+    SIENNA_TQ: -33.125
+  response: |-
+    7DA100C6210A17EFD7E
+    7DA21F803007EF70400
+- expected_values:
+    SIENNA_RPM_7D2: -16
+    SIENNA_TQ: 18
+  response: |-
+    7DA100C6210A17FF080
+    7DA218B030080900400
+- expected_values:
+    SIENNA_RPM_7D2: -11
+    SIENNA_TQ: 0.625
+  response: |-
+    7DA100C6210A17FF580
+    7DA2101030080050400
+- expected_values:
+    SIENNA_RPM_7D2: -6
+    SIENNA_TQ: -1
+  response: |-
+    7DA100C6210A17FFA7F
+    7DA21F303007FF80400
+- expected_values:
+    SIENNA_RPM_7D2: -5
+    SIENNA_TQ: 0
+  response: |-
+    7DA100C6210A17FFB80
+    7DA2100030080000400
+- expected_values:
+    SIENNA_RPM_7D2: -2
+    SIENNA_TQ: 8.625
+  response: |-
+    7DA100C6210A17FFE80
+    7DA214F030080450400
+- expected_values:
+    SIENNA_RPM_7D2: -1
+    SIENNA_TQ: -14.125
+  response: |-
+    7DA100C6210A17FFF7F
+    7DA218B03007F8F0400
+- expected_values:
+    SIENNA_RPM_7D2: 0
+    SIENNA_TQ: -14.25
+  response: |-
+    7DA100C6210A180007F
+    7DA218C03007F8E0400
+- expected_values:
+    SIENNA_RPM_7D2: 0
+    SIENNA_TQ: -0.125
+  response: |-
+    7DA100C6210A1800080
+    7DA210003007FFF0000
+- expected_values:
+    SIENNA_RPM_7D2: 564
+    SIENNA_TQ: 159.25
+  response: |-
+    7DA100C6210A1823484
+    7DA21E4030084FA0400
+- expected_values:
+    SIENNA_RPM_7D2: 1842
+    SIENNA_TQ: -7
+  response: |-
+    7DA100C6210A187327F
+    7DA21BF04007FC80400
+- expected_values:
+    SIENNA_RPM_7D2: 1988
+    SIENNA_TQ: -97.5
+  response: |-
+    7DA100C6210A187C47C
+    7DA21D204007CF40400
+- expected_values:
+    SIENNA_RPM_7D2: 4144
+    SIENNA_TQ: 59.5
+  response: |-
+    7DA100C6210A1903081
+    7DA21F4040281DC0400
+- expected_values:
+    SIENNA_RPM_7D2: 11785
+    SIENNA_TQ: -10.75
+  response: |-
+    7DA100C6210A1AE097F
+    7DA21A804027FAA0400

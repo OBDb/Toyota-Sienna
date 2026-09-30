@@ -1,34 +1,28 @@
 command_id: 7C0.7C8.2123
 test_cases:
 - expected_values:
-    TOYOTA_COOLANT_T: 0
-    TOYOTA_ECT_7C0: 0
+    SIENNA_ECT_7C0: 0
   response: 7C803612300
 - expected_values:
-    TOYOTA_COOLANT_T: 100
-    TOYOTA_ECT_7C0: 100
+    SIENNA_ECT_7C0: 100
   response: 7C8036123C8
 - expected_values:
-    TOYOTA_COOLANT_T: 26
-    TOYOTA_ECT_7C0: 26
+    SIENNA_ECT_7C0: 26
   response: |-
     7C80361A7C0
     7C803612334
 - expected_values:
-    TOYOTA_COOLANT_T: 33.5
-    TOYOTA_ECT_7C0: 33.5
+    SIENNA_ECT_7C0: 33.5
   response: |-
     7C80361A7C0
     7C803612343
 - expected_values:
-    TOYOTA_COOLANT_T: 39.5
-    TOYOTA_ECT_7C0: 39.5
+    SIENNA_ECT_7C0: 39.5
   response: |-
     7C80361A7C0
     7C80361234F
 - expected_values:
-    TOYOTA_COOLANT_T: 88
-    TOYOTA_ECT_7C0: 88
+    SIENNA_ECT_7C0: 88
   response: |-
     7C80361A7C0
     7C8036123B0

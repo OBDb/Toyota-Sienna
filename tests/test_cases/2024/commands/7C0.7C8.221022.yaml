@@ -1,18 +1,14 @@
 command_id: 7C0.7C8.221022
 test_cases:
 - expected_values:
-    TOYOTA_FLV: 4.29
-    TOYOTA_FUEL_LEVEL: 4.29
+    SIENNA_FUEL_LEVEL: 4.29
   response: 7C80562102201AD
 - expected_values:
-    TOYOTA_FLV: 20.48
-    TOYOTA_FUEL_LEVEL: 20.48
+    SIENNA_FUEL_LEVEL: 20.48
   response: 7C8056210220800
 - expected_values:
-    TOYOTA_FLV: 28.15
-    TOYOTA_FUEL_LEVEL: 28.15
+    SIENNA_FUEL_LEVEL: 28.15
   response: 7C8056210220AFF
 - expected_values:
-    TOYOTA_FLV: 66.58
-    TOYOTA_FUEL_LEVEL: 66.58
+    SIENNA_FUEL_LEVEL: 66.58
   response: 7C8056210221A02

@@ -1,0 +1,5 @@
+command_id: 7D2.7DA.221F5B|fc=1,f=2022-
+test_cases:
+- expected_values:
+    SIENNA_SOC: 45.09804
+  response: 7DA04621F5B73

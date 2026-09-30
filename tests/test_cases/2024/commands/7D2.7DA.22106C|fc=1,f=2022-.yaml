@@ -1,0 +1,22 @@
+command_id: 7D2.7DA.22106C|fc=1,f=2022-
+test_cases:
+- expected_values:
+    SIENNA_HVBAT_SOC_MAX: 42.5
+    SIENNA_HVBAT_SOC_MIN: 33.5
+  response: 7DA0662106C555543
+- expected_values:
+    SIENNA_HVBAT_SOC_MAX: 69
+    SIENNA_HVBAT_SOC_MIN: 33.5
+  response: 7DA0662106C558A43
+- expected_values:
+    SIENNA_HVBAT_SOC_MAX: 44
+    SIENNA_HVBAT_SOC_MIN: 33
+  response: 7DA0662106C585842
+- expected_values:
+    SIENNA_HVBAT_SOC_MAX: 60.5
+    SIENNA_HVBAT_SOC_MIN: 58.5
+  response: 7DA0662106C797975
+- expected_values:
+    SIENNA_HVBAT_SOC_MAX: 61.5
+    SIENNA_HVBAT_SOC_MIN: 52.5
+  response: 7DA0662106C7B7B69
