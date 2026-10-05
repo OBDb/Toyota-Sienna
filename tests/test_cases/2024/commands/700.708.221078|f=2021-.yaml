@@ -1,4 +1,4 @@
-command_id: 700.708.221078
+command_id: 700.708.221078|f=2021-
 test_cases:
 - expected_values:
     SIENNA_IDLE_SAC_CYL_1: 0
