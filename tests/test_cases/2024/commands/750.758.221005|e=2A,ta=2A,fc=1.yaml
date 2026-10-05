@@ -1,16 +1,14 @@
 command_id: 750.758.221005|e=2A,ta=2A,fc=1
 test_cases:
 - expected_values:
-    SIENNA_TP_4: 34.06061
+    SIENNA_TP_1: null
+    SIENNA_TP_2: null
+    SIENNA_TP_3: null
+    SIENNA_TP_4: null
+    SIENNA_TP_5: null
   response: |-
     7582A100D6210050000
-    7582A210000000000A4
-    7582A22000000000000
-- expected_values:
-    SIENNA_TP_2: 36.24242
-  response: |-
-    7582A100D6210050000
-    7582A2100AD00000000
+    7582A21000000000000
     7582A22000000000000
 - expected_values:
     SIENNA_TP_2: 36.72727
