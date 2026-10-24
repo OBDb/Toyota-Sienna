@@ -4,5 +4,8 @@ test_cases:
     SIENNA_AAT_7D2: null
   response: 7DA04621F4600
 - expected_values:
+    SIENNA_AAT_7D2: 23
+  response: 7DA04621F463F
+- expected_values:
     SIENNA_AAT_7D2: 43
   response: 7DA04621F4653
