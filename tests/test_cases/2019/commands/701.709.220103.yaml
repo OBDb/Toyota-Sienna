@@ -1,14 +1,18 @@
 command_id: 701.709.220103
 test_cases:
 - expected_values:
-    SIENNA_ODO_V5: 9055
+    SIENNA_ODO_V5_RAW: 9055
+    SIENNA_ODO_V5_UNIT: MI
   response: 709076201030200235F
 - expected_values:
-    SIENNA_ODO_V5: 10239
+    SIENNA_ODO_V5_RAW: 10239
+    SIENNA_ODO_V5_UNIT: MI
   response: 70907620103020027FF
 - expected_values:
-    SIENNA_ODO_V5: 10240
+    SIENNA_ODO_V5_RAW: 10240
+    SIENNA_ODO_V5_UNIT: MI
   response: '7090762010302002800'
 - expected_values:
-    SIENNA_ODO_V5: 43348
+    SIENNA_ODO_V5_RAW: 43348
+    SIENNA_ODO_V5_UNIT: MI
   response: 709076201030200A954
